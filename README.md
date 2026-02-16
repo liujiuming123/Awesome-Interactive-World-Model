@@ -4,11 +4,12 @@
 
 
 **📜 A Comprehensive Survey of Recent Works in Interactive World Modeling.** </br>
-
+</div>
 ---
 
 ## 🚩 News & Updates
 _Major updates and announcements are shown below. Scroll for full timeline._
+
 ⭐ **[Ongoing] Support This Project** — If you find this useful, please [cite](#citation) our work and give us a star. Share with your research community!
 
 
