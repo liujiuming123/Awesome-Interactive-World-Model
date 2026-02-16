@@ -1,12 +1,10 @@
 <div align="center">
 
-# 🌍 Awesome World Models
+# 🌍 Awesome Interactive World Models
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social)](https://github.com/knightnemo/Awesome-World-Models/stargazers) [![License](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](LICENSE.txt) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+**📜 A Comprehensive Survey of Recent Works in Interactive World Modeling.** </br>
 
-**📜 A Curated List of Amazing Works in World Modeling, spanning applications in Embodied AI, Autonomous Driving, Natural Language Processing and Agents.** </br>
-*Based on [Awesome-World-Model-for-Autonomous-Driving](https://github.com/LMD0311/Awesome-World-Model) and [Awesome-World-Model-for-Robotics](https://github.com/leofan90/Awesome-World-Models)*.
 <p align="center">
   <img src="assets/main.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
