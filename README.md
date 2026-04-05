@@ -13,7 +13,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 ⭐ **[Ongoing] We will update this repo progressively with novel papers.
 
 <p align="center">
-  <img src="assets/main.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
+  <img src="assets/interactive world model.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
 
 *Photo Credit: [Gemini-Nano-Banana🍌](https://aistudio.google.com/models/gemini-2-5-flash-image)*.
