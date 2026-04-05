@@ -10,24 +10,26 @@
 ## 🚩 News & Updates
 _Major updates and announcements are shown below. Scroll for full timeline._
 
-⭐ **[Ongoing] Support This Project** — If you find this useful, please [cite](#citation) our work and give us a star. Share with your research community!
+⭐ **[Ongoing] We will update this repo progressively with novel papers.
 
 
 ---
 ## Overview
 
-  - 📚 [Interactive Video World Models](#video-world-models)
-  - 📖 [Interactive 3D World Models](#3d-world-models)
-  - 🎮 [Interactive World Models for Game Simulation](#world-models-for-game-simulation)
-  - 🚗 [Interactive World Models for Autonomous Driving](#world-models-for-autonomous-driving)
-  - 🤖 [Interactive World Models for Embodied AI](#world-models-for-embodied-ai)
+  - 📚 [Recent Research Trends]
+  - 📖 [User Controllability]
+  - 🌍 [Long-horizon Interactions]
+  - 🚩 [Real-time Responsiveness]
   - 📊 [Evaluation and Benchmarks for Interactive World Models](#evaluating-world-models)
+  - - 🎮 [Interactive World Models for Game Simulation](#world-models-for-game-simulation)
+  - - 🚗 [Interactive World Models for Autonomous Driving](#world-models-for-autonomous-driving)
+  - - 🤖 [Interactive World Models for Embodied AI](#world-models-for-embodied-ai)
   - 🙏 [Acknowledgements](#acknowledgements)
   - 📝 [Citation](#citation)
 
 ---
 
-## Interactive Video World Models
+## Recent Research Trends
 - [⭐️] **GameNGen**, "Diffusion Models Are Real-Time Game Engines". [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837) 
 - [⭐️] **DIAMOND**, "Diffusion for World Modeling: Visual Details Matter in Atari".  [![arXiv](https://img.shields.io/badge/arXiv-2405.12399-b31b1b.svg)](https://arxiv.org/abs/2405.12399) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/eloialonso/diamond)
 - **MineWorld**, "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft". [![arXiv](https://img.shields.io/badge/arXiv-2504.07257-b31b1b.svg)](https://arxiv.org/abs/2504.07257) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://aka.ms/mineworld)
@@ -42,7 +44,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 
 
-## Interactive 3D World Models
+## User Controllability
 - [⭐️] **HunyuanWorld 1.0**, HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [![arXiv](https://img.shields.io/badge/arXiv-2507.21809-b31b1b.svg)](https://arxiv.org/abs/2507.21809) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
 - [⭐️] **Matrix-3D**, Matrix-3D: Omnidirectional Explorable 3D World Generation. [![arXiv](https://img.shields.io/badge/arXiv-2508.08086-b31b1b.svg)](https://arxiv.org/abs/2508.08086) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-3d.github.io)
 
@@ -68,13 +70,7 @@ Huge shoutout the the authors for their awesome work.
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```bash
-@misc{huang2025awesomeworldmodels,
-    title = {Awesome-World-Models},
-    author = {Siqiao Huang},
-    journal = {GitHub repository},
-    url = {https://github.com/knightnemo/Awesome-World-Models},
-    year = {2025},
-}
+
 ```
 ---
 ## All Thanks to Our Contributors
