@@ -38,7 +38,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ---
 
-## Interactive World Models for Game Engine
+## 🎮Interactive World Models for Game Engine
 - **GameWorld**, "Gameworld: Towards standardized and verifiable evaluation of multimodal game agents". [![arXiv](https://img.shields.io/badge/arXiv-2604.07429-b31b1b.svg)](http://arxiv.org/abs/2604.07429)
 - **ActionParty**, "Actionparty: Multi-subject action binding in generative video games". [![arXiv](https://img.shields.io/badge/arXiv-2604.02330-b31b1b.svg)](http://arxiv.org/abs/2604.02330)
 - **WorldCam**, "Worldcam: Interactive autoregressive 3d gaming worlds with camera pose as a unifying geometric representation". [![arXiv](https://img.shields.io/badge/arXiv-2603.16871-b31b1b.svg)](http://arxiv.org/abs/2603.16871)
