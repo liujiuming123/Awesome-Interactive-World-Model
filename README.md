@@ -22,20 +22,43 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 ---
 ## Overview
 
-  - 📚 [Recent Research Trends]
+  - 🎮 [Interactive World Models for Game Engine](#world-models-for-game-engine)
+  - 🚗 [Interactive World Models for Autonomous Driving](#world-models-for-autonomous-driving)
+  - 🤖 [Interactive World Models for Embodied AI](#world-models-for-embodied-ai)
+  - 🌍 [Interactive World Models for Open-World Exploration](#world-models-for-open-world)
   - 📖 [User Controllability]
   - 🌍 [Long-horizon Interactions]
   - 🚩 [Real-time Responsiveness]
   - 📊 [Evaluation and Benchmarks for Interactive World Models](#evaluating-world-models)
-  - - 🎮 [Interactive World Models for Game Simulation](#world-models-for-game-simulation)
-  - - 🚗 [Interactive World Models for Autonomous Driving](#world-models-for-autonomous-driving)
-  - - 🤖 [Interactive World Models for Embodied AI](#world-models-for-embodied-ai)
+  - - 🎮 [Game Simulation](#world-models-for-game-simulation)
+  - - 🚗 [Autonomous Driving](#world-models-for-autonomous-driving)
+  - - 🤖 [Embodied AI](#world-models-for-embodied-ai)
   - 🙏 [Acknowledgements](#acknowledgements)
   - 📝 [Citation](#citation)
 
 ---
 
-## Recent Research Trends
+## Interactive World Models for Game Engine
+- **GameWorld**, "Gameworld: Towards standardized and verifiable evaluation of multimodal game agents". [![arXiv](https://img.shields.io/badge/arXiv-2604.07429-b31b1b.svg)](http://arxiv.org/abs/2604.07429)
+- **ActionParty**, "Actionparty: Multi-subject action binding in generative video games". [![arXiv](https://img.shields.io/badge/arXiv-2604.02330-b31b1b.svg)](http://arxiv.org/abs/2604.02330)
+- **WorldCam**, "Worldcam: Interactive autoregressive 3d gaming worlds with camera pose as a unifying geometric representation". [![arXiv](https://img.shields.io/badge/arXiv-2603.16871-b31b1b.svg)](http://arxiv.org/abs/2603.16871)
+- **Matrix-Game 3.0**, "Matrix-game 3.0 real-time and streaming interactive world model with long-horizon memory". [![arXiv](https://img.shields.io/badge/arXiv-2603.01122-b31b1b.svg)](http://arxiv.org/abs/2603.01122)
+- **Solaris**, "Solaris: Building a multiplayer video world model in minecraft". [![arXiv](https://img.shields.io/badge/arXiv-2602.22208-b31b1b.svg)](http://arxiv.org/abs/2602.22208)
+- **Matrix-Game 2.0**, "Matrix-game 2.0: An open-source real-time and streaming interactive world model". [![arXiv](https://img.shields.io/badge/arXiv-2508.13009-b31b1b.svg)](http://arxiv.org/abs/2508.13009)
+- **Yume**, "Yume: An interactive world generation model". [![arXiv](https://img.shields.io/badge/arXiv-2507.17744-b31b1b.svg)](http://arxiv.org/abs/2507.17744)
+- **Matrix-Game**, "Matrix-game: Interactive world foundation model". [![arXiv](https://img.shields.io/badge/arXiv-2506.18701-b31b1b.svg)](http://arxiv.org/abs/2506.18701)
+- **MineWorld**, "MineWorld: a real-time and open-source interactive world model on minecraft". [![arXiv](https://img.shields.io/badge/arXiv-2504.08388-b31b1b.svg)](http://arxiv.org/abs/2504.08388)
+- **AnimeGamer**, "AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction". [![arXiv](https://img.shields.io/badge/arXiv-2504.01014-b31b1b.svg)](http://arxiv.org/abs/2504.01014)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://howe125.github.io/AnimeGamer.github.io/)
+- **Hunyuan-GameCraft**, "Hunyuan-gamecraft: High-dynamic interactive game video generation with hybrid history condition". [![arXiv](https://img.shields.io/badge/arXiv-2503.12345-b31b1b.svg)](http://arxiv.org/abs/2503.12345)
+- **GameFactory**, "Gamefactory: Creating new games with generative interactive videos". [![arXiv](https://img.shields.io/badge/arXiv-2503.11590-b31b1b.svg)](http://arxiv.org/abs/2503.11590)
+- **GameNGen**, "Diffusion models are real-time game engines". [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](http://arxiv.org/abs/2408.14837)
+- **iVideoGPT**, "iVideoGPT: Interactive videogpts are scalable world models". [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)](http://arxiv.org/abs/2405.15223)
+- **Video2Game**, "Video2game: Real-time interactive realistic and browser-compatible environment from a single video". [![arXiv](https://img.shields.io/badge/arXiv-2404.14652-b31b1b.svg)](http://arxiv.org/abs/2404.14652)
+- **Genie**, "Genie: Generative interactive environments". [![arXiv](https://img.shields.io/badge/arXiv-2402.15391-b31b1b.svg)](http://arxiv.org/abs/2402.15391)
+- **GameGAN**, "Learning to simulate dynamic environments with gamegan". [![arXiv](https://img.shields.io/badge/arXiv-2005.12126-b31b1b.svg)](http://arxiv.org/abs/2005.12126)
+- **Genie 2**, "Genie 2: A large-scale foundation world model". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+- **Genie 3**, "Genie 3: A new frontier for world models". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/)
+- **Oasis**, "Oasis: A universe in a transformer". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://oasis-model.github.io/)
 - [⭐️] **GameNGen**, "Diffusion Models Are Real-Time Game Engines". [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837) 
 - [⭐️] **DIAMOND**, "Diffusion for World Modeling: Visual Details Matter in Atari".  [![arXiv](https://img.shields.io/badge/arXiv-2405.12399-b31b1b.svg)](https://arxiv.org/abs/2405.12399) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/eloialonso/diamond)
 - **MineWorld**, "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft". [![arXiv](https://img.shields.io/badge/arXiv-2504.07257-b31b1b.svg)](https://arxiv.org/abs/2504.07257) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://aka.ms/mineworld)
@@ -48,16 +71,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 - **WORLDMEM**, "Worldmem: Long-term Consistent World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](http://arxiv.org/abs/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xizaoqu/WorldMem)
 - **Waypoint-1**, "The Path to Real-Time Worlds and Why It Matters". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters) 
 
-
-
-## User Controllability
-- [⭐️] **HunyuanWorld 1.0**, HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [![arXiv](https://img.shields.io/badge/arXiv-2507.21809-b31b1b.svg)](https://arxiv.org/abs/2507.21809) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
-- [⭐️] **Matrix-3D**, Matrix-3D: Omnidirectional Explorable 3D World Generation. [![arXiv](https://img.shields.io/badge/arXiv-2508.08086-b31b1b.svg)](https://arxiv.org/abs/2508.08086) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-3d.github.io)
-
-
-
-
-## Evaluating World Models
 
 
 
