@@ -4,7 +4,7 @@
 
 
 ## 🌍 Interactive World Models for Open-world Exploration
-- **Inspatio-world**, "Inspatio-world: A real-time 4d world simulator via spatiotemporal autoregressive modeling". [![arXiv](https://img.shields.io/badge/arXiv-2604.07209-b31b1b.svg)](http://arxiv.org/abs/2604.07209) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/search?q=Inspatio-world)
+- **Inspatio-world**, "Inspatio-world: A real-time 4d world simulator via spatiotemporal autoregressive modeling". [![arXiv](https://img.shields.io/badge/arXiv-2604.07209-b31b1b.svg)](http://arxiv.org/abs/2604.07209) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://inspatio.github.io/inspatio-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/inspatio/inspatio-world)
 - **Omni-WorldBench**, "Omni-worldbench: Towards a comprehensive interaction-centric evaluation for world models". [![arXiv](https://img.shields.io/badge/arXiv-2603.22212-b31b1b.svg)](http://arxiv.org/abs/2603.22212) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/search?q=Omni-WorldBench)
 - **LiveWorld**, "Liveworld: Simulating out-of-sight dynamics in generative video world models". [![arXiv](https://img.shields.io/badge/arXiv-2603.07145-b31b1b.svg)](http://arxiv.org/abs/2603.07145) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/search?q=LiveWorld)
 - **Shareverse**, "Shareverse: Multi-agent consistent video generation for shared world modeling". [![arXiv](https://img.shields.io/badge/arXiv-2603.02697-b31b1b.svg)](http://arxiv.org/abs/2603.02697) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/search?q=Shareverse)
