@@ -1,5 +1,40 @@
 <div align="center">
 
+
+**📜 A Comprehensive Survey of Recent Works in Interactive World Modeling.** </br>
+</div>
+---
+
+## 🚩 News & Updates
+_Major updates and announcements are shown below. Scroll for full timeline._
+
+⭐ **[Ongoing] We will update this repo progressively with novel papers.
+
+<p align="center">
+  <img src="assets/interactive world model.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
+</p>
+
+*Photo Credit: [Gemini-Nano-Banana🍌](https://aistudio.google.com/models/gemini-2-5-flash-image)*.
+</div>
+
+---
+## Overview
+
+  - 🎮 [Interactive World Models for Game Engine](#world-models-for-game-engine)
+  - 🚗 [Interactive World Models for Autonomous Driving](#world-models-for-autonomous-driving)
+  - 🤖 [Interactive World Models for Embodied AI](#world-models-for-embodied-ai)
+  - 🌍 [Interactive World Models for Open-World Exploration](#world-models-for-open-world)
+  - 📖 [User Controllability]
+  - 🌍 [Long-horizon Interactions]
+  - 🚩 [Real-time Responsiveness]
+  - 📊 [Evaluation and Benchmarks for Interactive World Models](#evaluating-world-models)
+  - - 🎮 [Game Simulation](#world-models-for-game-simulation)
+  - - 🚗 [Autonomous Driving](#world-models-for-autonomous-driving)
+  - - 🤖 [Embodied AI](#world-models-for-embodied-ai)
+  - 🙏 [Acknowledgements](#acknowledgements)
+  - 📝 [Citation](#citation)
+
+---
 # Awesome Interactive World Models
 
 
