@@ -42,7 +42,7 @@ Entries may appear in multiple sections when one paper contributes to several re
   - 🧱 [Explicit 3D Reconstruction](#explicit-3d-reconstruction)
   - 🧪 [Forcing, Noise, and AR Diffusion Training](#forcing-noise-and-ar-diffusion-training)
 - ⚡ [Real-time Interactivity](#real-time-interactivity)
-  - ⚖️ [Responsiveness vs Coherence](#responsiveness-vs-coherence)
+  - ⚖️ [Conflict: Responsiveness vs Coherence](#responsiveness-vs-coherence)
   - 🚀 [Efficient Rollout](#efficient-rollout)
 - 🗺️ [Application Domains](#application-domains)
   - 🌍 [Open-world Exploration](#open-world-exploration)
@@ -53,7 +53,7 @@ Entries may appear in multiple sections when one paper contributes to several re
   - 🌍 [Open-world Benchmarks](#open-world-benchmarks)
   - 🚗 [Autonomous Driving Benchmarks](#autonomous-driving-benchmarks)
   - 🤖 [Embodied AI Datasets and Benchmarks](#embodied-ai-datasets-and-benchmarks)
-  - 🎮 [Game Data and Evaluation Resources](#game-data-and-evaluation-resources)
+  - 🎮 [Game Dataset and Benchmarks](#game-data-and-evaluation-resources)
 - 🙏 [Acknowledgements](#acknowledgements)
 - 📝 [Citation](#citation)
 
@@ -71,7 +71,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="static-to-dynamic-and-multi-agent-worlds"></a>
 ### 🌀 Static to Dynamic and Multi-agent Worlds
-#### Dynamics (Out of Sight Dynamics and Self-evolution)
+#### Dynamics (Out of Sight Dynamics and Self-evolution):
 - **Inspatio-world** - Inspatio-world: A real-time 4d world simulator via spatiotemporal autoregressive modeling. [![arXiv](https://img.shields.io/badge/arXiv-2604.07209-b31b1b.svg)](http://arxiv.org/abs/2604.07209) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://inspatio.github.io/inspatio-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/inspatio/inspatio-world)
 - **HM-World** - Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.25716-b31b1b.svg)](https://arxiv.org/abs/2603.25716) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/H-EmbodVis/HyDRA)
 - **LiveWorld** - Liveworld: Simulating out-of-sight dynamics in generative video world models. [![arXiv](https://img.shields.io/badge/arXiv-2603.07145-b31b1b.svg)](http://arxiv.org/abs/2603.07145) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zichengduan.github.io/pages/LiveWorld/index.html) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/ZichengDuan/LiveWorld)
@@ -356,7 +356,7 @@ Representative works are listed here.
 - **Interactive World Simulator** - Interactive World Simulator for Robot Policy Training and Evaluation. [![arXiv](https://img.shields.io/badge/arXiv-2603.08546-b31b1b.svg)](https://arxiv.org/abs/2603.08546) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.yixuanwang.me/interactive_world_sim/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/WangYixuan12/interactive_world_sim)
 - **MVISTA-4D** - MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2602.09878-b31b1b.svg)](https://arxiv.org/abs/2602.09878)
 - **GigaWorld-0** - GigaWorld-0: World Models as Data Engine to Empower Embodied AI. [![arXiv](https://img.shields.io/badge/arXiv-2511.19861-b31b1b.svg)](https://arxiv.org/abs/2511.19861) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://giga-world-0.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/open-gigaai/giga-world-0)
-- **EMMA** - EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer. [![arXiv](https://img.shields.io/badge/arXiv-2509.22407-b31b1b.svg)](https://arxiv.org/abs/2509.22407) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://emma-gigaai.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/VittorioDong/EMMA)
+- **EMMA** - EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer. [![arXiv](https://img.shields.io/badge/arXiv-2509.22407-b31b1b.svg)](https://arxiv.org/abs/2509.22407) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://emma-gigaai.github.io/) 
 - **MimicDreamer** - MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training. [![arXiv](https://img.shields.io/badge/arXiv-2509.22199-b31b1b.svg)](https://arxiv.org/abs/2509.22199)
 - **EmbodieDreamer** - EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2507.05198-b31b1b.svg)](https://arxiv.org/abs/2507.05198) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodiedreamer.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/GigaAI-research/EmbodieDreamer)
 
@@ -367,23 +367,25 @@ Representative works are listed here.
 
 <a id="open-world-benchmarks"></a>
 ### 🌍 Open-world Benchmarks
+- **Omni-WorldBench** - Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.22212-b31b1b.svg)](http://arxiv.org/abs/2603.22212) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/AMAP-ML/Omni-WorldBench)
+- **MIND** - MIND: Benchmarking Memory Consistency and Action Control in World Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.08025-b31b1b.svg)](https://arxiv.org/abs/2602.08025) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://csu-jpg.github.io/MIND.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/CSU-JPG/MIND)
+- **[ICCV'25] WorldScore** - WorldScore: A Unified Evaluation Benchmark for World Generation. [![arXiv](https://img.shields.io/badge/arXiv-2504.00983-b31b1b.svg)](http://arxiv.org/abs/2504.00983) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://haoyi-duan.github.io/WorldScore/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/haoyi-duan/WorldScore)
+- **T2V-CompBench** - T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2407.14505-b31b1b.svg)](https://arxiv.org/abs/2407.14505) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://t2v-compbench-2025.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/KaiyueSun98/T2V-CompBench)
+- **ChronoMagic-Bench** - ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2406.18522-b31b1b.svg)](https://arxiv.org/abs/2406.18522) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pku-yuangroup.github.io/ChronoMagic-Bench/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/PKU-YuanGroup/ChronoMagic-Bench)
 - **TC-Bench** - TC-Bench: Benchmarking Temporal Compositionality in Conditional Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2406.08656-b31b1b.svg)](https://arxiv.org/abs/2406.08656) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weixi-feng.github.io/tc-bench) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/weixi-feng/tc-bench)
 - **EvalCrafter** - EvalCrafter: Benchmarking and Evaluating Large Video Generation Models. [![arXiv](https://img.shields.io/badge/arXiv-2310.11440-b31b1b.svg)](https://arxiv.org/abs/2310.11440) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://evalcrafter.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/EvalCrafter/EvalCrafter)
 - **VBench** - VBench: Comprehensive Benchmark Suite for Video Generative Models. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vchitect.github.io/VBench-project/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Vchitect/VBench)
-- **T2V-CompBench** - T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2407.14505-b31b1b.svg)](https://arxiv.org/abs/2407.14505) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://t2v-compbench-2025.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/KaiyueSun98/T2V-CompBench)
-- **ChronoMagic-Bench** - ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2406.18522-b31b1b.svg)](https://arxiv.org/abs/2406.18522) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pku-yuangroup.github.io/ChronoMagic-Bench/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/PKU-YuanGroup/ChronoMagic-Bench)
-- **WorldScore** - WorldScore: A Unified Evaluation Benchmark for World Generation. [![arXiv](https://img.shields.io/badge/arXiv-2504.00983-b31b1b.svg)](http://arxiv.org/abs/2504.00983) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://haoyi-duan.github.io/WorldScore/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/haoyi-duan/WorldScore)
-- **Omni-WorldBench** - Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.22212-b31b1b.svg)](http://arxiv.org/abs/2603.22212) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/AMAP-ML/Omni-WorldBench)
-- **MIND** - MIND: Benchmarking Memory Consistency and Action Control in World Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.08025-b31b1b.svg)](https://arxiv.org/abs/2602.08025) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://csu-jpg.github.io/MIND.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/CSU-JPG/MIND)
+
 
 The survey also highlights older generic video-generation suites such as FETV, plus `WorldScopeDataset` as a large-scale training-oriented interactive dataset.
 
 <a id="autonomous-driving-benchmarks"></a>
 ### 🚗 Autonomous Driving Benchmarks
+- **DrivingGen** - DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2601.01528-b31b1b.svg)](https://arxiv.org/abs/2601.01528) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://drivinggen-bench.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/youngzhou1999/DrivingGen)
 - **NAVSIM** - NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/avg/publication/dauner.hallgarten.etal.neurips2024/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/autonomousvision/navsim)
 - **Bench2Drive** - Bench2Drive. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thinklab-sjtu.github.io/Bench2Drive/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Thinklab-SJTU/Bench2Drive)
 - **ACT-Bench** - ACT-Bench: Towards Action Controllable World Models for Autonomous Driving. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://turingmotors.github.io/actbench/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/turingmotors/ACT-Bench)
-- **DrivingGen** - DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2601.01528-b31b1b.svg)](https://arxiv.org/abs/2601.01528) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://drivinggen-bench.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/youngzhou1999/DrivingGen)
+
 
 The survey further discusses `nuScenes`, `INTERACTION`, `ReconDreamer-RL`, and `SimScale` as useful evaluation or synthetic-data resources for controllable driving world models.
 
@@ -397,7 +399,7 @@ The survey further discusses `nuScenes`, `INTERACTION`, `ReconDreamer-RL`, and `
 - **LIBERO** - LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://libero-project.github.io/main.html) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Lifelong-Robot-Learning/LIBERO)
 
 <a id="game-data-and-evaluation-resources"></a>
-### 🎮 Game Data and Evaluation Resources
+### 🎮 Game Dataset and Benchmarks
 - **GameWorld** - Gameworld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents. [![arXiv](https://img.shields.io/badge/arXiv-2604.07429-b31b1b.svg)](http://arxiv.org/abs/2604.07429) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gameworld-bench.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/gameworld-project/gameworld)
 - **OGameData** - Open-world game video data released with GameGen-X. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gamegen-x.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/GameGen-X/GameGen-X)
 - **GF-Minecraft** - The Minecraft dataset released with GameFactory. [![Dataset](https://img.shields.io/badge/Dataset-Link-orange)](https://huggingface.co/datasets/KlingTeam/GameFactory-Dataset) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/KlingAIResearch/GameFactory)
