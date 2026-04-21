@@ -401,16 +401,19 @@ The survey further discusses `nuScenes`, `INTERACTION`, `ReconDreamer-RL`, and `
 <a id="game-data-and-evaluation-resources"></a>
 ### 🎮 Game Dataset and Benchmarks
 - **GameWorld** - Gameworld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents. [![arXiv](https://img.shields.io/badge/arXiv-2604.07429-b31b1b.svg)](http://arxiv.org/abs/2604.07429) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gameworld-bench.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/gameworld-project/gameworld)
-- **OGameData** - Open-world game video data released with GameGen-X. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gamegen-x.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/GameGen-X/GameGen-X)
-- **GF-Minecraft** - The Minecraft dataset released with GameFactory. [![Dataset](https://img.shields.io/badge/Dataset-Link-orange)](https://huggingface.co/datasets/KlingTeam/GameFactory-Dataset) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/KlingAIResearch/GameFactory)
-- **Sekai-Real-HQ / Sekai** - Real-world video data used by Yume and related game-world models. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lixsp11.github.io/sekai-project/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Lixsp11/sekai-codebase)
-- **WorldCam-50h** - 50-hour gameplay dataset introduced with WorldCam. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/WorldCam/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/cvlab-kaist/WorldCam)
+- **WorldCam-50h** - 50-hour gameplay dataset introduced with WorldCam. [![arXiv](https://img.shields.io/badge/arXiv-2603.16871-b31b1b.svg)](https://arxiv.org/abs/2603.16871) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/WorldCam/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/cvlab-kaist/WorldCam)
+- **Sekai-Real-HQ / Sekai** - Real-world video data used by Yume and related game-world models. [![arXiv](https://img.shields.io/badge/arXiv-2506.15675-b31b1b.svg)](https://arxiv.org/abs/2506.15675) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lixsp11.github.io/sekai-project/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Lixsp11/sekai-codebase)
+- **GF-Minecraft** - The Minecraft dataset released with GameFactory. [![arXiv](https://img.shields.io/badge/arXiv-2501.08325-b31b1b.svg)](https://arxiv.org/abs/2501.08325)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/datasets/KlingTeam/GameFactory-Dataset) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/KlingAIResearch/GameFactory)
+- **OGameData** - Open-world game video data released with GameGen-X. [![arXiv](https://img.shields.io/badge/arXiv-2411.00769-b31b1b.svg)](https://arxiv.org/abs/2411.00769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gamegen-x.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/GameGen-X/GameGen-X)
+
+
 
 The survey also points to Atari 100k, VPT, Matrix-Game-MC, and Sekai-Real-HQ as important training or evaluation resources for interactive game-world research.
 
 <a id="acknowledgements"></a>
 ## 🙏 Acknowledgements
 This repository is largely inspired by related community resources:
+- https://github.com/knightnemo/Awesome-World-Models
 - [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)
 - [Awesome-World-Model-for-Autonomous-Driving](https://github.com/LMD0311/Awesome-World-Model)
 - [Awesome-World-Model-for-Robotics](https://github.com/leofan90/Awesome-World-Models)
