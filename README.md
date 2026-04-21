@@ -71,7 +71,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="static-to-dynamic-and-multi-agent-worlds"></a>
 ### 🌀 Static to Dynamic and Multi-agent Worlds
-## Dynamics
+## Dynamics (Out of Sight Dynamics and Self-evolution)
 - **Inspatio-world** - Inspatio-world: A real-time 4d world simulator via spatiotemporal autoregressive modeling. [![arXiv](https://img.shields.io/badge/arXiv-2604.07209-b31b1b.svg)](http://arxiv.org/abs/2604.07209) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://inspatio.github.io/inspatio-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/inspatio/inspatio-world)
 - **HM-World** - Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.25716-b31b1b.svg)](https://arxiv.org/abs/2603.25716) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/H-EmbodVis/HyDRA)
 - **LiveWorld** - Liveworld: Simulating out-of-sight dynamics in generative video world models. [![arXiv](https://img.shields.io/badge/arXiv-2603.07145-b31b1b.svg)](http://arxiv.org/abs/2603.07145) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zichengduan.github.io/pages/LiveWorld/index.html) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/ZichengDuan/LiveWorld)
@@ -85,7 +85,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 - **Hunyuan-GameCraft** - "Hunyuan-gamecraft: High-dynamic interactive game video generation with hybrid history condition. [![arXiv](https://img.shields.io/badge/arXiv-2506.17201-b31b1b.svg)](https://arxiv.org/abs/2506.17201) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://hunyuan-gamecraft.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0)
 - **DeepVerse** - Deepverse: 4d autoregressive video generation as a world model. [![arXiv](https://img.shields.io/badge/arXiv-2506.01103-b31b1b.svg)](http://arxiv.org/abs/2506.01103) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sotamak1r.github.io/deepverse/)
 
-## Multi-agent
+## Multi-Agent Interaction:
 - **MultiWorld** - MultiWorld: Scalable Multi-Agent Multi-View Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.18564-b31b1b.svg)](https://arxiv.org/abs/2604.18564) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://multi-world.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/CIntellifusion/MultiWorld)
 - **[CVPR'26 Workshop] F3DGS** - F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2604.01605-b31b1b.svg)](https://arxiv.org/abs/2604.01605)
 - **SWM**, "Grounding World Simulation Models in a Real-World Metropolis". [![arXiv](https://img.shields.io/badge/arXiv-2603.15583-b31b1b.svg)](https://arxiv.org/abs/2603.15583) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://seoul-world-model.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/naver-ai/seoul-world-model)
@@ -98,11 +98,12 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="single-sensory-to-multi-sensory-interfaces"></a>
 ### 🔊 Single-sensory to Multi-sensory Interfaces
-- **SonoWorld** - SonoWorld: From One Image to a 3D Audio-Visual Scene. [![arXiv](https://img.shields.io/badge/arXiv-2603.28757v1-b31b1b.svg)](https://arxiv.org/abs/2603.28757v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://humathe.github.io/sonoworld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/HuMathe/sonoworld)
-- **RealWonder** - RealWonder: Real-Time Physical Action-Conditioned Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2603.05449-b31b1b.svg)](https://arxiv.org/abs/2603.05449) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liuwei283.github.io/RealWonder/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/liuwei283/RealWonder)
-- **PerpetualWonder** - PerpetualWonder: Long-Horizon Action-Conditioned 4D Scene Generation. [![arXiv](https://img.shields.io/badge/arXiv-2602.04876-b31b1b.svg)](http://arxiv.org/abs/2602.04876) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://johnzhan2023.github.io/PerpetualWonder/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/JohnZhan2023/PerpetualWonder)
-- **Teleworld** - Teleworld: Towards Dynamic Multimodal Synthesis with a 4D World Model. [![arXiv](https://img.shields.io/badge/arXiv-2601.00051-b31b1b.svg)](http://arxiv.org/abs/2601.00051)
+- **[CVPR'26] SonoWorld** - SonoWorld: From One Image to a 3D Audio-Visual Scene. [![arXiv](https://img.shields.io/badge/arXiv-2603.28757v1-b31b1b.svg)](https://arxiv.org/abs/2603.28757v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://humathe.github.io/sonoworld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/HuMathe/sonoworld)
 - **GAIA-2** - GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2503.20523-b31b1b.svg)](https://arxiv.org/abs/2503.20523) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://anthonyhu.github.io/gaia2)
+- **RealWonder** - RealWonder: Real-Time Physical Action-Conditioned Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2603.05449-b31b1b.svg)](https://arxiv.org/abs/2603.05449) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liuwei283.github.io/RealWonder/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/liuwei283/RealWonder)
+- **[CVPR'26] PerpetualWonder** - PerpetualWonder: Long-Horizon Action-Conditioned 4D Scene Generation. [![arXiv](https://img.shields.io/badge/arXiv-2602.04876-b31b1b.svg)](http://arxiv.org/abs/2602.04876) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://johnzhan2023.github.io/PerpetualWonder/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/JohnZhan2023/PerpetualWonder)
+- **Teleworld** - Teleworld: Towards Dynamic Multimodal Synthesis with a 4D World Model. [![arXiv](https://img.shields.io/badge/arXiv-2601.00051-b31b1b.svg)](http://arxiv.org/abs/2601.00051)
+
 
 <a id="user-action-controllability"></a>
 ## 📖 User Action Controllability
