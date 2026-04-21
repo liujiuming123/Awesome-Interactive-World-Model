@@ -111,10 +111,14 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="one-shot-loose-control"></a>
 ### 🎯 One-shot Loose Control
-- **[TPAMI'25] ViewCrafter** - ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis. [![arXiv](https://img.shields.io/badge/arXiv-2409.02048-b31b1b.svg)](https://arxiv.org/abs/2409.02048) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://drexubery.github.io/ViewCrafter/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Drexubery/ViewCrafter)
-- **[SIGGRAPH 2024] MotionCtrl** - MotionCtrl: A Unified and Flexible Motion Controller for Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2312.03641-b31b1b.svg)](https://arxiv.org/abs/2312.03641) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wzhouxiff.github.io/projects/MotionCtrl/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/TencentARC/MotionCtrl)
 - **[Siggraph Asian 2025] Uni3C** - Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2504.14899-b31b1b.svg)](https://arxiv.org/abs/2504.14899) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alibaba-damo-academy.github.io/Uni3C/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/alibaba-damo-academy/Uni3C)
-- **Vega** - Vega: Learning to Drive with Natural Language Instructions. [![arXiv](https://img.shields.io/badge/arXiv-2603.25741-b31b1b.svg)](https://arxiv.org/abs/2603.25741)
+- **SEVA** - Stable Virtual Camera: Generative View Synthesis with Diffusion Models. [![arXiv](https://img.shields.io/badge/arXiv-2503.14489-b31b1b.svg)](https://arxiv.org/abs/2503.14489) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://stable-virtual-camera.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Stability-AI/stable-virtual-camera)
+- **[TPAMI'25] ViewCrafter** - ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis. [![arXiv](https://img.shields.io/badge/arXiv-2409.02048-b31b1b.svg)](https://arxiv.org/abs/2409.02048) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://drexubery.github.io/ViewCrafter/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Drexubery/ViewCrafter)
+- **CameraCtrl** - CameraCtrl: Enabling Camera Control for Video Diffusion Models. [![arXiv](https://img.shields.io/badge/arXiv-2404.02101-b31b1b.svg)](https://arxiv.org/abs/2404.02101) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://hehao13.github.io/projects-CameraCtrl/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/hehao13/CameraCtrl)
+- **[SIGGRAPH 2024] MotionCtrl** - MotionCtrl: A Unified and Flexible Motion Controller for Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2312.03641-b31b1b.svg)](https://arxiv.org/abs/2312.03641) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wzhouxiff.github.io/projects/MotionCtrl/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/TencentARC/MotionCtrl)
+
+
+
 
 <a id="frame-level-fine-grained-control"></a>
 ### 🕹️ Frame-level Fine-grained Control
