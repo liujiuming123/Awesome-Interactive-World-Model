@@ -62,6 +62,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="specialist-to-generalist"></a>
 ### 🌐 Specialist to Generalist
+- **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **[ICLR'26] Astra** - Astra: General Interactive World Model with Autoregressive Denoising. [![arXiv](https://img.shields.io/badge/arXiv-2512.08931-b31b1b.svg)](https://arxiv.org/abs/2512.08931) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://eternalevan.github.io/Astra-project/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/EternalEvan/Astra)
 - **[ICML'25] AdaWorld** - AdaWorld: Learning Adaptable World Models with Latent Actions. [![arXiv](https://img.shields.io/badge/arXiv-2503.18938-b31b1b.svg)](https://arxiv.org/abs/2503.18938) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://adaptable-world-model.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Little-Podi/AdaWorld)
 - **Genie 3** - Genie 3: A new frontier for world models. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/)
@@ -72,6 +73,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 <a id="static-to-dynamic-and-multi-agent-worlds"></a>
 ### 🌀 Static to Dynamic and Multi-agent Worlds
 #### Dynamics (Out of Sight Dynamics and Self-evolution):
+- **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **Inspatio-world** - Inspatio-world: A real-time 4d world simulator via spatiotemporal autoregressive modeling. [![arXiv](https://img.shields.io/badge/arXiv-2604.07209-b31b1b.svg)](http://arxiv.org/abs/2604.07209) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://inspatio.github.io/inspatio-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/inspatio/inspatio-world)
 - **HM-World** - Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.25716-b31b1b.svg)](https://arxiv.org/abs/2603.25716) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/H-EmbodVis/HyDRA)
 - **LiveWorld** - Liveworld: Simulating out-of-sight dynamics in generative video world models. [![arXiv](https://img.shields.io/badge/arXiv-2603.07145-b31b1b.svg)](http://arxiv.org/abs/2603.07145) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zichengduan.github.io/pages/LiveWorld/index.html) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/ZichengDuan/LiveWorld)
@@ -99,6 +101,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="single-sensory-to-multi-sensory-interfaces"></a>
 ### 🔊 Single-sensory to Multi-sensory Interfaces
+- **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **[CVPR'26] SonoWorld** - SonoWorld: From One Image to a 3D Audio-Visual Scene. [![arXiv](https://img.shields.io/badge/arXiv-2603.28757v1-b31b1b.svg)](https://arxiv.org/abs/2603.28757v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://humathe.github.io/sonoworld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/HuMathe/sonoworld)
 - **GAIA-2** - GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2503.20523-b31b1b.svg)](https://arxiv.org/abs/2503.20523) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://anthonyhu.github.io/gaia2)
 - **RealWonder** - RealWonder: Real-Time Physical Action-Conditioned Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2603.05449-b31b1b.svg)](https://arxiv.org/abs/2603.05449) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liuwei283.github.io/RealWonder/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/liuwei283/RealWonder)
@@ -251,6 +254,7 @@ Representative works are listed here.
 
 <a id="open-world-exploration"></a>
 ### 🌍 Open-world Exploration
+- **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
 - **Inspatio-world** - Inspatio-world: A real-time 4D world simulator via spatiotemporal autoregressive modeling. [![arXiv](https://img.shields.io/badge/arXiv-2604.07209-b31b1b.svg)](http://arxiv.org/abs/2604.07209) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://inspatio.github.io/inspatio-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/inspatio/inspatio-world)
 - **[SIGGRAPH'26] OmniRoam** - OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2603.30045-b31b1b.svg)](https://arxiv.org/abs/2603.30045) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuheng.ink/project-page/omniroam/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/yuhengliu02/OmniRoam)
@@ -303,6 +307,7 @@ Representative works are listed here.
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
 - **Matrix-Game 3.0** - Matrix-game 3.0 Real-time and Streaming Interactive World Model with Long-Horizon Memory. [![arXiv](https://img.shields.io/badge/arXiv-2604.08995-b31b1b.svg)](https://arxiv.org/abs/2604.08995) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v3.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/SkyworkAI/Matrix-Game)
 - **GameWorld** - Gameworld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents. [![arXiv](https://img.shields.io/badge/arXiv-2604.07429-b31b1b.svg)](http://arxiv.org/abs/2604.07429) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gameworld-bench.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/gameworld-project/gameworld)
