@@ -1,6 +1,6 @@
 <div align="center">
 
-**📜 A Comprehensive Survey of Recent Works in Interactive World Modeling.** </br>
+**📜 A Comprehensive Survey of Interactive World Modeling.** </br>
 
 </div>
 
@@ -9,7 +9,7 @@
 ## 🚩 News & Updates
 _Major updates and announcements are shown below. Scroll for full timeline._
 
-⭐ **[Ongoing]** We will update this repo progressively with novel papers, datasets, and benchmarks.
+⭐ **[Ongoing]** We will update this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks.
 
 <p align="center">
   <img src="assets/interactive world model.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
