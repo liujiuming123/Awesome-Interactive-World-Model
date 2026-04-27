@@ -22,8 +22,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 A curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive world modeling.
 
 This repository follows the organization of [paper_link] and supports two ways of browsing the literature:
-- by application domain, such as open-world exploration, game engines, autonomous driving, and embodied AI
-- by research theme, such as controllability, long-horizon memory, and real-time interactivity
+- by application domains, such as open-world exploration, game engines, autonomous driving, and embodied AI for more comprehensive lists.
+- by research themes, such as trends, controllability, long-horizon memory, and real-time interactivity corresponding to the paper.
 
 Entries may appear in multiple sections when one paper contributes to several research axes.
 
