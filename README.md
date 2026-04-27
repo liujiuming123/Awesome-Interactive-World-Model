@@ -115,6 +115,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="one-shot-loose-control"></a>
 ### 🎯 One-shot Loose Control
+Here we mainly list papers with one-shot camera trajectory as controls.
 - **[Siggraph Asian 2025] Uni3C** - Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2504.14899-b31b1b.svg)](https://arxiv.org/abs/2504.14899) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alibaba-damo-academy.github.io/Uni3C/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/alibaba-damo-academy/Uni3C)
 - **SEVA** - Stable Virtual Camera: Generative View Synthesis with Diffusion Models. [![arXiv](https://img.shields.io/badge/arXiv-2503.14489-b31b1b.svg)](https://arxiv.org/abs/2503.14489) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://stable-virtual-camera.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Stability-AI/stable-virtual-camera)
 - **[TPAMI'25] ViewCrafter** - ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis. [![arXiv](https://img.shields.io/badge/arXiv-2409.02048-b31b1b.svg)](https://arxiv.org/abs/2409.02048) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://drexubery.github.io/ViewCrafter/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Drexubery/ViewCrafter)
@@ -126,7 +127,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="frame-level-fine-grained-control"></a>
 ### 🕹️ Frame-level Fine-grained Control
-Actually, almost all interactive world models can achieve frame-level control. Here, we only list some representative works.
+Actually, most of interactive world models can achieve frame-level control. Here, we only list some representative works.
 - **Olaf-World** - Olaf-world: Orienting Latent Actions for Video World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2602.10104-b31b1b.svg)](http://arxiv.org/abs/2602.10104) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/Olaf-World/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/showlab/Olaf-World)
 - **[CVPR'26] NeoVerse** - NeoVerse: Enhancing 4D World Model with In-the-wild Monocular Videos. [![arXiv](https://img.shields.io/badge/arXiv-2601.00393-b31b1b.svg)](http://arxiv.org/abs/2601.00393) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://neoverse-4d.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/IamCreateAI/NeoVerse)
 - **[CVPR'26] VerseCrafter** - VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control. [![arXiv](https://img.shields.io/badge/arXiv-2601.05138-b31b1b.svg)](http://arxiv.org/abs/2601.05138) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sixiaozheng.github.io/VerseCrafter_page/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/TencentARC/VerseCrafter)
