@@ -51,7 +51,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ```
 We also refefr to our latest work ''VectorWorld'' accepted by ICML 2026 Spotlight. 🥳🥳🥳
----
+
 
 A curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive video world modeling.
 
