@@ -151,6 +151,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **SCOPE** - SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.23345-b31b1b.svg)](https://arxiv.org/abs/2605.23345) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://z2tong.github.io/SCOPE/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/z2tong/SCOPE)
 - **SANA-WM** - SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer. [![arXiv](https://img.shields.io/badge/arXiv-2605.15178-b31b1b.svg)](https://arxiv.org/abs/2605.15178) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/Sana/WM/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/NVlabs/Sana)
 - **MultiWorld** - MultiWorld: Scalable Multi-Agent Multi-View Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.18564-b31b1b.svg)](https://arxiv.org/abs/2604.18564) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://multi-world.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/CIntellifusion/MultiWorld)
 - **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
@@ -196,6 +197,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="autonomous-driving"></a>
 ### 🚗 Autonomous Driving
+- **[ICML'26] VectorWorld** - VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs. [![arXiv](https://img.shields.io/badge/arXiv-2603.17652-b31b1b.svg)](https://arxiv.org/abs/2603.17652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiangchaokang.github.io/VectorWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jiangchaokang/VectorWorld)
 - **Vega** - Vega: Learning to Drive with Natural Language Instructions. [![arXiv](https://img.shields.io/badge/arXiv-2603.25741-b31b1b.svg)](https://arxiv.org/abs/2603.25741) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zuosc19.github.io/Vega/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/zuosc19/Vega)
 - **[NeurIPS'25] ReSim** - ReSim: Reliable World Simulation for Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2506.09981-b31b1b.svg)](https://arxiv.org/abs/2506.09981) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://opendrivelab.com/ReSim) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/OpenDriveLab/ReSim)
 - **[NeurIPS'25] FutureSightDrive** - Futuresightdrive: Thinking Visually with Spatio-temporal CoT for Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2505.17685-b31b1b.svg)](https://arxiv.org/abs/2505.17685)
