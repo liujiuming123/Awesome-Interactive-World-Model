@@ -138,6 +138,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **MultiWorld** - MultiWorld: Scalable Multi-Agent Multi-View Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.18564-b31b1b.svg)](https://arxiv.org/abs/2604.18564) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://multi-world.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/CIntellifusion/MultiWorld)
 - **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
 - **Lyra 2.0** - Lyra 2.0: Explorable Generative 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.13036-b31b1b.svg)](https://arxiv.org/abs/2604.13036) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/sil/projects/lyra2/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/nv-tlabs/lyra)
