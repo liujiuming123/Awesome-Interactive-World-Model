@@ -33,12 +33,13 @@
 
 
 ## 🚩 News & Updates
-_We will open-source our survey paper recently._
 _Major updates and announcements are shown below. Scroll for full timeline._
 
-⭐ **[Ongoing]** We will update this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks.
+⭐ **[Ongoing Update]** We will open-source our survey paper recently.
 
-⭐ **[Ongoing]** Welcome to contribute to the curated list by contacting us. If you find this repository is useful in your research, please cite the paper by:
+⭐ **[Ongoing Update]** We will update this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks.
+
+⭐ **[Ongoing Update]** Welcome to contribute to the curated list by contacting us. If you find this repository is useful in your research, please cite the paper by:
 <a id="citation"></a>
 ## 📝 Citation
 ```bibtex
@@ -50,7 +51,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 }
 
 ```
-**We also refer to our recent work ''VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs.'' accepted by ICML 2026 Spotlight**. 🥳🥳🥳 [![arXiv](https://img.shields.io/badge/arXiv-2603.17652-b31b1b.svg)](https://arxiv.org/abs/2603.17652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiangchaokang.github.io/VectorWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jiangchaokang/VectorWorld)
+⭐ **[News]** **We also refer to our recent work ''VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs.'' accepted by ICML 2026 as Spotlight**. 🥳🥳🥳 [![arXiv](https://img.shields.io/badge/arXiv-2603.17652-b31b1b.svg)](https://arxiv.org/abs/2603.17652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiangchaokang.github.io/VectorWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jiangchaokang/VectorWorld)
 
 
 A curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive video world modeling.
