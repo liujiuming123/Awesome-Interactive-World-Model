@@ -50,7 +50,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 }
 
 ```
-We also refefr to our latest work ''VectorWorld'' accepted by ICML 2026 Spotlight. 🥳🥳🥳
+**We also refer to our recent work ''VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs.'' accepted by ICML 2026 Spotlight**. 🥳🥳🥳 [![arXiv](https://img.shields.io/badge/arXiv-2603.17652-b31b1b.svg)](https://arxiv.org/abs/2603.17652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiangchaokang.github.io/VectorWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jiangchaokang/VectorWorld)
 
 
 A curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive video world modeling.
