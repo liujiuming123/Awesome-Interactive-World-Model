@@ -27,6 +27,7 @@
 ---
 
 ## 🚩 News & Updates
+_We will open-source our survey paper recently._
 _Major updates and announcements are shown below. Scroll for full timeline._
 
 ⭐ **[Ongoing]** We will update this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks.
@@ -39,7 +40,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ---
 
-A curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive world modeling.
+A curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive video world modeling.
 
 This repository follows the organization of [paper_link] and supports two ways of browsing the literature:
 - by application domains, such as open-world exploration, game engines, autonomous driving, and embodied AI for more comprehensive lists.
