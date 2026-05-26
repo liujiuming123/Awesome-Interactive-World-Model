@@ -1,7 +1,17 @@
 <div align="center">
 
 **📜 A Comprehensive Survey of Interactive World Modeling.** </br>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=6gZ8vloAAAAJ"><b>Chaokang Jiang</b></a><sup>1</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=Ux677B4AAAAJ&hl=en"><b>Desen Zhou</b></a><sup>1</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=j4YXCukAAAAJ"><b>Jiuming Liu</b></a><sup>2</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=JZViN_4AAAAJ"><b>Kevin Li Sun</b></a><sup>1</sup>
+</p>
 
+<p align="center">
+  <sup>1</sup>Bosch XC-CN&nbsp;&nbsp;&nbsp;&nbsp;
+  <sup>2</sup>University of Cambridge
+</p>
 </div>
 
 ---
