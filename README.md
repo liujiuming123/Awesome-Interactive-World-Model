@@ -31,6 +31,16 @@ _We will open-source our survey paper recently._
 _Major updates and announcements are shown below. Scroll for full timeline._
 
 ⭐ **[Ongoing]** We will update this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks.
+⭐ **[Ongoing]** Welcome to contribute to the curated list by contacting us. If you find this repository is useful in your research, please cite the paper by:
+<a id="citation"></a>
+## 📝 Citation
+```bibtex
+@misc{liu2026interactiveworldmodeling,
+  title  = {Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends},
+  author = {Liu, Jiuming and Ni, Chaojun and Liu, Mengmeng and Peng, Chensheng and Wang, Fangjinhua and Shen, Sitian and Pollefeys, Marc and Tomizuka, Masayoshi and Tewari, Ayush and Kristensson, Per Ola},
+  year   = {2026},
+  note   = {Survey draft; update venue, URL, and publication metadata when public entry is available}
+}
 
 <p align="center">
   <img src="assets/interactive world model.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
@@ -76,7 +86,6 @@ Entries may appear in multiple sections when one paper contributes to several re
   - 🤖 [Embodied AI Datasets and Benchmarks](#embodied-ai-datasets-and-benchmarks)
   - 🎮 [Game Dataset and Benchmarks](#game-data-and-evaluation-resources)
 - 🙏 [Acknowledgements](#acknowledgements)
-- 📝 [Citation](#citation)
 
 
 <a id="application-domains"></a>
@@ -469,15 +478,5 @@ This repository is largely inspired by related community resources:
 - [Awesome-World-Model-for-Autonomous-Driving](https://github.com/LMD0311/Awesome-World-Model)
 - [Awesome-World-Model-for-Robotics](https://github.com/leofan90/Awesome-World-Models)
 
-<a id="citation"></a>
-## 📝 Citation
-If this repository is useful in your research, please cite:
 
-```bibtex
-@misc{liu2026interactiveworldmodeling,
-  title  = {Towards Interactive World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends},
-  author = {Liu, Jiuming and Ni, Chaojun and Liu, Mengmeng and Peng, Chensheng and Wang, Fangjinhua and Pollefeys, Marc and Tomizuka, Masayoshi and Tewari, Ayush and Kristensson, Per Ola},
-  year   = {2026},
-  note   = {Survey draft; update venue, URL, and publication metadata when public entry is available}
-}
 ```
