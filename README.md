@@ -8,7 +8,7 @@
   <a href="https://scholar.google.com/citations?user=DbZxclcAAAAJ&hl=en"><b>Chensheng Peng</b></a><sup>4</sup>&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=ysTmrEsAAAAJ&hl=en"><b>Fangjinhua Wang</b></a><sup>5</sup>&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=b9RFKscAAAAJ&hl=en&oi=ao"><b>Sitian Shen</b></a><sup>6</sup>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en"><b>Marc Pollefeys</b></a><sup>5</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en"><b>Marc Pollefeys</b></a><sup>5</sup>&nbsp;&nbsp;\\
   <a href="https://scholar.google.com/citations?user=8m8taGEAAAAJ&hl=en"><b>Masayoshi Tomizuka</b></a><sup>4</sup>&nbsp;&nbsp&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=pDnzpeoAAAAJ&hl=en"><b>Ayush Tewari</b></a><sup>1</sup>&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=mH69Wm4AAAAJ&hl=en"><b>Per Ola Kristensson</b></a><sup>1</sup
