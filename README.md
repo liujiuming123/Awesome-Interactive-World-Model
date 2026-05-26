@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=j4YXCukAAAAJ"><b>Jiuming Liu</b></a><sup>1</sup>&nbsp;&nbsp;
   <a href="https://openreview.net/profile?id=~Chaojun_Ni1"><b>ChaoJun Ni</b></a><sup>2</sup>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=voDEo_AAAAAJ&hl=en&oi=ao"><b>Mengmeng Liu Liu</b></a><sup>3</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=voDEo_AAAAAJ&hl=en&oi=ao"><b>Mengmeng Liu</b></a><sup>3</sup>&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=DbZxclcAAAAJ&hl=en"><b>Chensheng Peng</b></a><sup>4</sup>&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=ysTmrEsAAAAJ&hl=en"><b>Fangjinhua Wang</b></a><sup>5</sup>&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=b9RFKscAAAAJ&hl=en&oi=ao"><b>Sitian Shen</b></a><sup>6</sup>&nbsp;&nbsp;
