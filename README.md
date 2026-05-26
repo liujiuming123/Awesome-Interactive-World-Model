@@ -42,6 +42,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
   note   = {Survey draft; update venue, URL, and publication metadata when public entry is available}
 }
 
+```
+
 <p align="center">
   <img src="assets/interactive world model.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
@@ -479,4 +481,3 @@ This repository is largely inspired by related community resources:
 - [Awesome-World-Model-for-Robotics](https://github.com/leofan90/Awesome-World-Models)
 
 
-```
