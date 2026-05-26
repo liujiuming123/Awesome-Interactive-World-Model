@@ -2,15 +2,25 @@
 
 **📜 A Comprehensive Survey of Interactive World Modeling.** </br>
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=6gZ8vloAAAAJ"><b>Chaokang Jiang</b></a><sup>1</sup>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=Ux677B4AAAAJ&hl=en"><b>Desen Zhou</b></a><sup>1</sup>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=j4YXCukAAAAJ"><b>Jiuming Liu</b></a><sup>2</sup>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=JZViN_4AAAAJ"><b>Kevin Li Sun</b></a><sup>1</sup>
+  <a href="https://scholar.google.com/citations?user=j4YXCukAAAAJ"><b>Jiuming Liu</b></a><sup>1</sup>&nbsp;&nbsp;
+  <a href="https://openreview.net/profile?id=~Chaojun_Ni1"><b>ChaoJun Ni</b></a><sup>2</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=voDEo_AAAAAJ&hl=en&oi=ao"><b>Mengmeng Liu Liu</b></a><sup>3</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=DbZxclcAAAAJ&hl=en"><b>Chensheng Peng</b></a><sup>4</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=ysTmrEsAAAAJ&hl=en"><b>Fangjinhua Wang</b></a><sup>5</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=b9RFKscAAAAJ&hl=en&oi=ao"><b>Sitian Shen</b></a><sup>6</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en"><b>Marc Pollefeys</b></a><sup>5</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=8m8taGEAAAAJ&hl=en"><b>Masayoshi Tomizuka</b></a><sup>4</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=pDnzpeoAAAAJ&hl=en"><b>Ayush Tewari</b></a><sup>1</sup>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=mH69Wm4AAAAJ&hl=en"><b>Per Ola Kristensson</b></a><sup>1</sup
 </p>
 
 <p align="center">
-  <sup>1</sup>Bosch XC-CN&nbsp;&nbsp;&nbsp;&nbsp;
-  <sup>2</sup>University of Cambridge
+  <sup>1</sup>University of Cambridge&nbsp;
+  <sup>2</sup>Peking University&nbsp;
+  <sup>3</sup>University of Twente&nbsp;
+  <sup>4</sup>University of California, Berkeley&nbsp;
+  <sup>5</sup>ETH Zurich&nbsp;
+  <sup>6</sup>University of Oxford
 </p>
 </div>
 
