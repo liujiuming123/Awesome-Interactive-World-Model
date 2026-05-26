@@ -1,6 +1,6 @@
 <div align="center">
 
-**📜 A Comprehensive Survey of Interactive World Modeling.** </br>
+**📜 A Comprehensive Survey of Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends.** </br>
 <p align="center">
   <a href="https://scholar.google.com/citations?user=j4YXCukAAAAJ"><b>Jiuming Liu</b></a><sup>1</sup>&nbsp;&nbsp;
   <a href="https://openreview.net/profile?id=~Chaojun_Ni1"><b>ChaoJun Ni</b></a><sup>2</sup>&nbsp;&nbsp;
