@@ -97,6 +97,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="open-world-exploration"></a>
 ### 🌍 Open-world Exploration
+- **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 - **[ICML'26] SphericalDreamer** - SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion. [![arXiv](https://img.shields.io/badge/arXiv-2605.19974v1-b31b1b.svg)](https://arxiv.org/abs/2605.19974v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sphericaldreamer.github.io/) 
 - **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
@@ -152,6 +153,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 - **Gamma-World** - Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players. [![arXiv](https://img.shields.io/badge/arXiv-2605.28816-b31b1b.svg)](https://arxiv.org/abs/2605.28816) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/sil/projects/gamma-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/nv-tlabs/Gamma-World)
 - **SCOPE** - SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.23345-b31b1b.svg)](https://arxiv.org/abs/2605.23345) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://z2tong.github.io/SCOPE/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/z2tong/SCOPE)
 - **SANA-WM** - SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer. [![arXiv](https://img.shields.io/badge/arXiv-2605.15178-b31b1b.svg)](https://arxiv.org/abs/2605.15178) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/Sana/WM/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/NVlabs/Sana)
@@ -416,6 +418,7 @@ Representative works are listed here.
 
 <a id="efficient-rollout"></a>
 ### 🚀 Efficient Rollout
+- **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 - **SANA-WM** - SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer. [![arXiv](https://img.shields.io/badge/arXiv-2605.15178-b31b1b.svg)](https://arxiv.org/abs/2605.15178) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/Sana/WM/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/NVlabs/Sana)
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
 - **Matrix-Game 3.0** - Matrix-game 3.0 Real-time and Streaming Interactive World Model with Long-Horizon Memory. [![arXiv](https://img.shields.io/badge/arXiv-2604.08995-b31b1b.svg)](https://arxiv.org/abs/2604.08995) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v3.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/SkyworkAI/Matrix-Game)
