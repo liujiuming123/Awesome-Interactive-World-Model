@@ -54,7 +54,7 @@
 ⭐ **[News]** **We also refer to our recent work ''VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs.'' accepted by ICML 2026 as Spotlight**. 🥳🥳🥳 [![arXiv](https://img.shields.io/badge/arXiv-2603.17652-b31b1b.svg)](https://arxiv.org/abs/2603.17652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiangchaokang.github.io/VectorWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jiangchaokang/VectorWorld)
 
 
-A curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive video world modeling.
+This is a curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive video world modeling.
 
 This repository follows the organization of [paper_link] and supports two ways of browsing the literature:
 - by application domains, such as open-world exploration, game engines, autonomous driving, and embodied AI for more comprehensive lists.
@@ -153,6 +153,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
 - **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 - **Gamma-World** - Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players. [![arXiv](https://img.shields.io/badge/arXiv-2605.28816-b31b1b.svg)](https://arxiv.org/abs/2605.28816) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/sil/projects/gamma-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/nv-tlabs/Gamma-World)
 - **SCOPE** - SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.23345-b31b1b.svg)](https://arxiv.org/abs/2605.23345) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://z2tong.github.io/SCOPE/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/z2tong/SCOPE)
@@ -418,6 +419,7 @@ Representative works are listed here.
 
 <a id="efficient-rollout"></a>
 ### 🚀 Efficient Rollout
+- **Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
 - **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 - **SANA-WM** - SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer. [![arXiv](https://img.shields.io/badge/arXiv-2605.15178-b31b1b.svg)](https://arxiv.org/abs/2605.15178) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/Sana/WM/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/NVlabs/Sana)
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
