@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <sup>1</sup>**University of Cambridge**&nbsp;
+  <sup>1</sup>*University of Cambridge*&nbsp;
   <sup>2</sup>Peking University&nbsp;
   <sup>3</sup>University of Twente&nbsp;
   <br> <sup>4</sup>University of California, Berkeley&nbsp;
