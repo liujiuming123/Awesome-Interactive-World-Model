@@ -25,6 +25,14 @@
 </div>
 
 ---
+This is a curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive video world modeling.
+
+This repository follows the organization of [paper_link] and supports two ways of browsing the literature:
+- by application domains, such as open-world exploration, game engines, autonomous driving, and embodied AI for more comprehensive lists.
+- by research themes, such as trends, controllability, long-horizon memory, and real-time interactivity corresponding to the paper.
+
+Entries may appear in multiple sections when one paper contributes to several research axes.
+
 <p align="center">
   <img src="assets/interactive world model.png" alt="Awesome World Models" width="80%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
@@ -54,13 +62,7 @@
 ⭐ **[News]** **We also refer to our recent work ''VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs.'' accepted by ICML 2026 as Spotlight**. 🥳🥳🥳 [![arXiv](https://img.shields.io/badge/arXiv-2603.17652-b31b1b.svg)](https://arxiv.org/abs/2603.17652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiangchaokang.github.io/VectorWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jiangchaokang/VectorWorld)
 
 
-This is a curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive video world modeling.
 
-This repository follows the organization of [paper_link] and supports two ways of browsing the literature:
-- by application domains, such as open-world exploration, game engines, autonomous driving, and embodied AI for more comprehensive lists.
-- by research themes, such as trends, controllability, long-horizon memory, and real-time interactivity corresponding to the paper.
-
-Entries may appear in multiple sections when one paper contributes to several research axes.
 
 ## 📚 Overview
 - 🗺️ [Application Domains](#application-domains)
