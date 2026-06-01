@@ -33,11 +33,11 @@
 
 
 ## 🚩 News & Updates
-_Major updates and announcements are shown below. Scroll for full timeline._
 
-⭐ **[Ongoing Update]** We will open-source our survey paper recently.
+⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. Here are three most recent works:
+- **Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
+- **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 
-⭐ **[Ongoing Update]** We will update this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks.
 
 ⭐ **[Ongoing Update]** Welcome to contribute to the curated list by contacting us. If you find this repository is useful in your research, please cite the paper by:
 <a id="citation"></a>
