@@ -31,20 +31,17 @@ This repository follows the organization our survey paper [paper_link] and suppo
 - by application domains: open-world exploration, game engines, autonomous driving, embodied AI.
 - by research themes: trends, controllability, long-horizon, memory, and real-time efficiency.
 
-
 <p align="center">
   <img src="assets/interactive world model.png" alt="Awesome World Models" width="80%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
 
-*Photo Credit: [Gemini-Nano-Banana🍌](https://aistudio.google.com/models/gemini-2-5-flash-image)*.
 
 
 ## 🚩 News & Updates
-
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. Here are three most recent works:
 - **Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
 - **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
-
+- **Gamma-World** - Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players. [![arXiv](https://img.shields.io/badge/arXiv-2605.28816-b31b1b.svg)](https://arxiv.org/abs/2605.28816) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/sil/projects/gamma-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/nv-tlabs/Gamma-World)
 
 ⭐ **[Ongoing Update]** Welcome to contribute to the curated list by contacting us. If you find this repository is useful in your research, please cite the paper by:
 <a id="citation"></a>
@@ -58,7 +55,7 @@ This repository follows the organization our survey paper [paper_link] and suppo
 }
 
 ```
-⭐ **[News]** **We also refer to our recent work ''VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs.'' accepted by ICML 2026 as Spotlight**. 🥳🥳🥳 [![arXiv](https://img.shields.io/badge/arXiv-2603.17652-b31b1b.svg)](https://arxiv.org/abs/2603.17652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiangchaokang.github.io/VectorWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jiangchaokang/VectorWorld)
+⭐ **[News]** **We also refer to our recent work ''VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs.'' accepted by ICML 2026 as Spotlight**. 🥳🥳🥳 [![arXiv](https://img.shields.io/badge/arXiv-2603.17652-b31b1b.svg)](https://arxiv.org/abs/2603.17652) 
 
 
 
