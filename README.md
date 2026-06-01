@@ -25,11 +25,11 @@
 </div>
 
 ---
-This is a curated awesome list of papers, codebases, websites, datasets, and benchmarks for interactive video world modeling.
+This is a curated awesome list of papers, codebases, websites, and benchmarks for interactive video world modeling.
 
-This repository follows the organization of [paper_link] and supports two ways of browsing the literature:
-- by application domains, such as open-world exploration, game engines, autonomous driving, and embodied AI.
-- by research themes, such as trends, controllability, long-horizon, memory, and real-time efficiency corresponding to the paper.
+This repository follows the organization our survey paper [paper_link] and supports two ways of browsing the literature:
+- by application domains: open-world exploration, game engines, autonomous driving, embodied AI.
+- by research themes: trends, controllability, long-horizon, memory, and real-time efficiency.
 
 
 <p align="center">
