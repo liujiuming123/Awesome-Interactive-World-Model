@@ -26,8 +26,8 @@
 
 ---
 This is a curated awesome list of papers, codebases, websites for interactive video world modeling. This repository follows the organization our survey paper [paper_link] and supports browsing:
-- by application domains: open-world exploration, game engines, autonomous driving, embodied AI.
-- by research themes: trends, controllability, long-horizon, memory, and real-time efficiency.
+- **by application domains**: open-world exploration, game engines, autonomous driving, embodied AI.
+- **by technical themes**: trends, controllability, long-horizon, memory, and real-time efficiency.
 
 <p align="center">
   <img src="assets/interactive world model.png" alt="Awesome World Models" width="80%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
