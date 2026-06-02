@@ -435,7 +435,7 @@ Representative works are listed here.
 
 <a id="open-world-benchmarks"></a>
 ### 🌍 Open-world Benchmarks
-- **WBench** - iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework. [![arXiv](https://img.shields.io/badge/arXiv-2605.25874-b31b1b.svg)](https://arxiv.org/abs/2605.25874)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://meituan-longcat.github.io/WBench/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/meituan-longcat/WBench)
+- **WBench** - WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation. [![arXiv](https://img.shields.io/badge/arXiv-2605.25874-b31b1b.svg)](https://arxiv.org/abs/2605.25874)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://meituan-longcat.github.io/WBench/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/meituan-longcat/WBench)
 - **[ICML'26] iWorldBench** - iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework. [![arXiv](https://img.shields.io/badge/arXiv-2605.03941-b31b1b.svg)](https://arxiv.org/abs/2605.03941)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://iworld-bench.com/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/EmbodiedCity/iWorld-Bench)
 - **WorldMark** - WorldMark: A Unified Benchmark Suite for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.21686-b31b1b.svg)](https://arxiv.org/abs/2604.21686) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://warena.ai/) 
 - **Omni-WorldBench** - Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.22212-b31b1b.svg)](http://arxiv.org/abs/2603.22212) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/AMAP-ML/Omni-WorldBench)
@@ -449,6 +449,22 @@ Representative works are listed here.
 
 
 The survey also highlights older generic video-generation suites such as FETV, plus `WorldScopeDataset` as a large-scale training-oriented interactive dataset.
+
+<a id="game-data-and-evaluation-resources"></a>
+### 🎮 Game Dataset and Benchmarks
+- **WBench** - WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation. [![arXiv](https://img.shields.io/badge/arXiv-2605.25874-b31b1b.svg)](https://arxiv.org/abs/2605.25874)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://meituan-longcat.github.io/WBench/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/meituan-longcat/WBench)
+- **[ICML'26] iWorldBench** - iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework. [![arXiv](https://img.shields.io/badge/arXiv-2605.03941-b31b1b.svg)](https://arxiv.org/abs/2605.03941)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://iworld-bench.com/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/EmbodiedCity/iWorld-Bench)
+- **WorldMark** - WorldMark: A Unified Benchmark Suite for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.21686-b31b1b.svg)](https://arxiv.org/abs/2604.21686) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://warena.ai/) 
+- **GameWorld** - Gameworld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents. [![arXiv](https://img.shields.io/badge/arXiv-2604.07429-b31b1b.svg)](http://arxiv.org/abs/2604.07429) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gameworld-bench.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/gameworld-project/gameworld)
+- **WorldCam-50h** - 50-hour gameplay dataset introduced with WorldCam. [![arXiv](https://img.shields.io/badge/arXiv-2603.16871-b31b1b.svg)](https://arxiv.org/abs/2603.16871) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/WorldCam/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/cvlab-kaist/WorldCam)
+- **Sekai-Real-HQ / Sekai** - Real-world video data used by Yume and related game-world models. [![arXiv](https://img.shields.io/badge/arXiv-2506.15675-b31b1b.svg)](https://arxiv.org/abs/2506.15675) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lixsp11.github.io/sekai-project/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Lixsp11/sekai-codebase)
+- **GF-Minecraft** - The Minecraft dataset released with GameFactory. [![arXiv](https://img.shields.io/badge/arXiv-2501.08325-b31b1b.svg)](https://arxiv.org/abs/2501.08325)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/datasets/KlingTeam/GameFactory-Dataset) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/KlingAIResearch/GameFactory)
+- **OGameData** - Open-world game video data released with GameGen-X. [![arXiv](https://img.shields.io/badge/arXiv-2411.00769-b31b1b.svg)](https://arxiv.org/abs/2411.00769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gamegen-x.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/GameGen-X/GameGen-X)
+
+
+
+The survey also points to Atari 100k, VPT, Matrix-Game-MC, and Sekai-Real-HQ as important training or evaluation resources for interactive game-world research.
+
 
 <a id="autonomous-driving-benchmarks"></a>
 ### 🚗 Autonomous Driving Benchmarks
@@ -469,19 +485,6 @@ The survey further discusses `nuScenes`, `INTERACTION`, `ReconDreamer-RL`, and `
 - **CALVIN** - CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks. [![Website](https://img.shields.io/badge/Website-Link-blue)](http://calvin.cs.uni-freiburg.de/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/mees/calvin)
 - **LIBERO** - LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning. [![arXiv](https://img.shields.io/badge/arXiv-2306.03310-b31b1b.svg)](https://arxiv.org/abs/2306.03310) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://libero-project.github.io/main.html) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Lifelong-Robot-Learning/LIBERO)
 
-<a id="game-data-and-evaluation-resources"></a>
-### 🎮 Game Dataset and Benchmarks
-- **[ICML'26] iWorldBench** - iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework. [![arXiv](https://img.shields.io/badge/arXiv-2605.03941-b31b1b.svg)](https://arxiv.org/abs/2605.03941)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://iworld-bench.com/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/EmbodiedCity/iWorld-Bench)
-- **WorldMark** - WorldMark: A Unified Benchmark Suite for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.21686-b31b1b.svg)](https://arxiv.org/abs/2604.21686) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://warena.ai/) 
-- **GameWorld** - Gameworld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents. [![arXiv](https://img.shields.io/badge/arXiv-2604.07429-b31b1b.svg)](http://arxiv.org/abs/2604.07429) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gameworld-bench.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/gameworld-project/gameworld)
-- **WorldCam-50h** - 50-hour gameplay dataset introduced with WorldCam. [![arXiv](https://img.shields.io/badge/arXiv-2603.16871-b31b1b.svg)](https://arxiv.org/abs/2603.16871) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/WorldCam/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/cvlab-kaist/WorldCam)
-- **Sekai-Real-HQ / Sekai** - Real-world video data used by Yume and related game-world models. [![arXiv](https://img.shields.io/badge/arXiv-2506.15675-b31b1b.svg)](https://arxiv.org/abs/2506.15675) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lixsp11.github.io/sekai-project/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Lixsp11/sekai-codebase)
-- **GF-Minecraft** - The Minecraft dataset released with GameFactory. [![arXiv](https://img.shields.io/badge/arXiv-2501.08325-b31b1b.svg)](https://arxiv.org/abs/2501.08325)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/datasets/KlingTeam/GameFactory-Dataset) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/KlingAIResearch/GameFactory)
-- **OGameData** - Open-world game video data released with GameGen-X. [![arXiv](https://img.shields.io/badge/arXiv-2411.00769-b31b1b.svg)](https://arxiv.org/abs/2411.00769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gamegen-x.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/GameGen-X/GameGen-X)
-
-
-
-The survey also points to Atari 100k, VPT, Matrix-Game-MC, and Sekai-Real-HQ as important training or evaluation resources for interactive game-world research.
 
 <a id="acknowledgements"></a>
 ## 🙏 Acknowledgements
