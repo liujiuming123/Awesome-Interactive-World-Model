@@ -435,6 +435,7 @@ Representative works are listed here.
 
 <a id="open-world-benchmarks"></a>
 ### 🌍 Open-world Benchmarks
+- **WBench** - iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework. [![arXiv](https://img.shields.io/badge/arXiv-2605.25874-b31b1b.svg)](https://arxiv.org/abs/2605.25874)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://meituan-longcat.github.io/WBench/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/meituan-longcat/WBench)
 - **[ICML'26] iWorldBench** - iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework. [![arXiv](https://img.shields.io/badge/arXiv-2605.03941-b31b1b.svg)](https://arxiv.org/abs/2605.03941)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://iworld-bench.com/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/EmbodiedCity/iWorld-Bench)
 - **WorldMark** - WorldMark: A Unified Benchmark Suite for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.21686-b31b1b.svg)](https://arxiv.org/abs/2604.21686) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://warena.ai/) 
 - **Omni-WorldBench** - Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.22212-b31b1b.svg)](http://arxiv.org/abs/2603.22212) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/AMAP-ML/Omni-WorldBench)
