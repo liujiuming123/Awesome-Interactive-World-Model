@@ -45,11 +45,11 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 <a id="citation"></a>
 ## 📝 Citation
 ```bibtex
-@misc{liu2026interactiveworldmodeling,
-  title  = {Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends},
-  author = {Liu, Jiuming and Ni, Chaojun and Liu, Mengmeng and Peng, Chensheng and Wang, Fangjinhua and Shen, Sitian and Pollefeys, Marc and Tomizuka, Masayoshi and Tewari, Ayush and Kristensson, Per Ola},
-  year   = {2026},
-  note   = {Survey draft; update venue, URL, and publication metadata when public entry is available}
+@article{liu2026towards,
+  title={Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends},
+  author={Liu, Jiuming and Ni, Chaojun and Liu, Mengmeng and Peng, Chensheng and Wang, Fangjinhua and Shen, Sitian and Pollefeys, Marc and Tomizuka, Masayoshi and Tewari, Ayush and Kristensson, Per Ola},
+  journal={arXiv preprint arXiv:2606.01164},
+  year={2026}
 }
 
 ```
