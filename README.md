@@ -36,7 +36,8 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 
 ## 🚩 News & Updates
-⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The three most recent works are:
+⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *five most recent* works are:
+- **[2026-6-8]w-EVA** - w-EVA: Envision, Verify, and Act with Latent Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.09457-b31b1b.svg)](https://arxiv.org/abs/2606.09457) 
 - **[2026-6-8]Prisma-World** - Prisma-World: Camera-Controllable Multi-Agent Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.09507-b31b1b.svg)](https://arxiv.org/abs/2606.09507) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huiqiang-sun.github.io/prisma-world/) 
 - **[2026-6-5]AnchorWorld** - AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization. [![arXiv](https://img.shields.io/badge/arXiv-2606.07326-b31b1b.svg)](https://arxiv.org/abs/2606.07326) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuli0103.github.io/AnchorWorld/) 
 - **[2026-5-29]Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
@@ -217,6 +218,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="embodied-ai-and-robotics"></a>
 ### 🤖 Embodied AI and Robotics
+- **w-EVA** - w-EVA: Envision, Verify, and Act with Latent Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.09457-b31b1b.svg)](https://arxiv.org/abs/2606.09457) 
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
 - **Lyra 2.0** - Lyra 2.0: Explorable Generative 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.13036-b31b1b.svg)](https://arxiv.org/abs/2604.13036) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/sil/projects/lyra2/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/nv-tlabs/lyra)
 - **GigaWorld-Policy** - GigaWorld-Policy: An Efficient Action-Centered World--Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2603.17240-b31b1b.svg)](https://arxiv.org/abs/2603.17240) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gigaai-research.github.io/GigaWorld-Policy/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/open-gigaai/giga-world-policy)
