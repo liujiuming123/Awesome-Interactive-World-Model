@@ -25,8 +25,9 @@
 </div>
 
 ---
-This is a curated awesome list of papers, codebases, websites for interactive video world modeling. This repository follows the organization **our survey paper** [![arXiv](https://img.shields.io/badge/arXiv-2606.01164-b31b1b.svg)](https://arxiv.org/abs/2606.01164) and supports two ways of browsing:
+This is a curated awesome list of papers, codebases, websites for interactive video world modeling. This repository follows the organization **our survey paper** [![arXiv](https://img.shields.io/badge/arXiv-2606.01164-b31b1b.svg)](https://arxiv.org/abs/2606.01164) and supports three ways of browsing:
 - **by application domains**: open-world exploration, game engines, autonomous driving, embodied AI.
+- **by industry products**: Genie, Happy Oyster, Odyssey, Mirage, etc.
 - **by technical themes**: trends, controllability, long-horizon, memory, and real-time efficiency.
 
 <p align="center">
