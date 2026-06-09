@@ -67,6 +67,7 @@ Entries may appear in multiple sections when one paper contributes to several re
   - 🎮 [Game Engines](#game-engines)
   - 🚗 [Autonomous Driving](#autonomous-driving)
   - 🤖 [Embodied AI and Robotics](#embodied-ai-and-robotics)
+- 🚀 [Industry Products](#industry)
 - 🔭 [Recent Research Trends](#recent-research-trends)
   - 🌐 [Specialist to Generalist](#specialist-to-generalist)
   - 🌀 [Static to Dynamic and Multi-agent Worlds](#static-to-dynamic-and-multi-agent-worlds)
@@ -236,7 +237,14 @@ Entries may appear in multiple sections when one paper contributes to several re
 - **EmbodieDreamer** - EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2507.05198-b31b1b.svg)](https://arxiv.org/abs/2507.05198) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodiedreamer.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/GigaAI-research/EmbodieDreamer)
 
 
-
+<a id="industry"></a>
+## 🚀 Industry Products
+- **[2026-5-18][Odyssey] Agora-1** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://odyssey.ml/introducing-agora-1)
+- **[2026-4-23][Odyssey] Odyssey-2 Max** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://howaiworks.ai/blog/odyssey-2-max-world-model-physics)
+- **[2026-4-16][Alibaba] Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
+- **[2025-8-5][Google] Genie 3** - Genie 3: A new frontier for world models. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/)
+- **[2024-12-4][Google] Genie 2** - Genie 2: A Large-scale Foundation World Model. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+- **[2024-2-23][Google] Genie** - Genie: Generative Interactive Environments. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/genie-2024/)
 
 <a id="recent-research-trends"></a>
 ## 🔭 Recent Research Trends
