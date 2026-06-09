@@ -41,8 +41,9 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 - **[2026-6-8]w-EVA** - w-EVA: Envision, Verify, and Act with Latent Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.09457-b31b1b.svg)](https://arxiv.org/abs/2606.09457) 
 - **[2026-6-8]Prisma-World** - Prisma-World: Camera-Controllable Multi-Agent Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.09507-b31b1b.svg)](https://arxiv.org/abs/2606.09507) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huiqiang-sun.github.io/prisma-world/) 
 - **[2026-6-5]AnchorWorld** - AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization. [![arXiv](https://img.shields.io/badge/arXiv-2606.07326-b31b1b.svg)](https://arxiv.org/abs/2606.07326) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuli0103.github.io/AnchorWorld/)
-- **[2026-6-1]MetaWorld** - MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data. [![arXiv](https://img.shields.io/badge/arXiv-2606.02753-b31b1b.svg)](https://arxiv.org/abs/2606.02753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sjtuplayer.github.io/projects/MetaWorld/)
-- **[2026-5-29]Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
+- **[2026-6-4][ACE Robotics] HomeWorld** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kairos-homeworld.github.io/)
+- **[2026-6-1] MetaWorld** - MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data. [![arXiv](https://img.shields.io/badge/arXiv-2606.02753-b31b1b.svg)](https://arxiv.org/abs/2606.02753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sjtuplayer.github.io/projects/MetaWorld/)
+ 
 
 
 ⭐ **[Ongoing Update]** Welcome to contribute to the curated list by contacting us. If you find this repository is useful in your research, please cite the paper by:
@@ -100,6 +101,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 ### 🌍 Open-world Exploration
 - **Prisma-World** - Prisma-World: Camera-Controllable Multi-Agent Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.09507-b31b1b.svg)](https://arxiv.org/abs/2606.09507) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huiqiang-sun.github.io/prisma-world/)
 - **AnchorWorld** - AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization. [![arXiv](https://img.shields.io/badge/arXiv-2606.07326-b31b1b.svg)](https://arxiv.org/abs/2606.07326) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuli0103.github.io/AnchorWorld/)
+- **HomeWorld** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kairos-homeworld.github.io/)
 - **MetaWorld** - MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data. [![arXiv](https://img.shields.io/badge/arXiv-2606.02753-b31b1b.svg)](https://arxiv.org/abs/2606.02753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sjtuplayer.github.io/projects/MetaWorld/)
 - **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 - **[ICML'26] SphericalDreamer** - SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion. [![arXiv](https://img.shields.io/badge/arXiv-2605.19974v1-b31b1b.svg)](https://arxiv.org/abs/2605.19974v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sphericaldreamer.github.io/) 
@@ -240,7 +242,10 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="industry"></a>
 ## 🚀 Industry Products
+
+- **[2026-6-1][VAST] Project Eden** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.tripo3d.ai/research/project-eden)
 - **[2026-5-18][Odyssey] Agora-1** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://odyssey.ml/introducing-agora-1)
+- **[2026-5-13][DreamX Team] DreamX-World** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/AMAP-ML/DreamX-World)
 - **[2026-4-23][Odyssey] Odyssey-2 Max** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://howaiworks.ai/blog/odyssey-2-max-world-model-physics)
 - **[2026-4-16][Alibaba] Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **[2025-8-21][Dynamics Lab] Mirage 2** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.mirage2.org/about)
