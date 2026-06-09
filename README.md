@@ -244,6 +244,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 ## 🚀 Industry Products
 
 - **[2026-6-1][VAST] Project Eden** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.tripo3d.ai/research/project-eden)
+- **[2026-5-27][PixVerse]PixVerse R1** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pixverse.ai/en/blog/pixverse-r1-next-generation-real-time-world-model)
 - **[2026-5-18][Odyssey] Agora-1** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://odyssey.ml/introducing-agora-1)
 - **[2026-5-13][DreamX Team] DreamX-World** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/AMAP-ML/DreamX-World)
 - **[2026-4-23][Odyssey] Odyssey-2 Max** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://howaiworks.ai/blog/odyssey-2-max-world-model-physics)
