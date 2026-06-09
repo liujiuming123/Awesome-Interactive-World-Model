@@ -37,9 +37,10 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The three most recent works are:
+- **[2026-6-8]Prisma-World** - Prisma-World: Camera-Controllable Multi-Agent Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.09507-b31b1b.svg)](https://arxiv.org/abs/2606.09507) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huiqiang-sun.github.io/prisma-world/) 
 - **[2026-6-5]AnchorWorld** - AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization. [![arXiv](https://img.shields.io/badge/arXiv-2606.07326-b31b1b.svg)](https://arxiv.org/abs/2606.07326) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuli0103.github.io/AnchorWorld/) 
 - **[2026-5-29]Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
-- **[2026-5-28]minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
+
 
 ⭐ **[Ongoing Update]** Welcome to contribute to the curated list by contacting us. If you find this repository is useful in your research, please cite the paper by:
 <a id="citation"></a>
@@ -93,6 +94,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="open-world-exploration"></a>
 ### 🌍 Open-world Exploration
+- **Prisma-World** - Prisma-World: Camera-Controllable Multi-Agent Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.09507-b31b1b.svg)](https://arxiv.org/abs/2606.09507) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huiqiang-sun.github.io/prisma-world/) 
 - **AnchorWorld** - AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization. [![arXiv](https://img.shields.io/badge/arXiv-2606.07326-b31b1b.svg)](https://arxiv.org/abs/2606.07326) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuli0103.github.io/AnchorWorld/) 
 - **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 - **[ICML'26] SphericalDreamer** - SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion. [![arXiv](https://img.shields.io/badge/arXiv-2605.19974v1-b31b1b.svg)](https://arxiv.org/abs/2605.19974v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sphericaldreamer.github.io/) 
@@ -264,6 +266,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 - **DeepVerse** - Deepverse: 4d autoregressive video generation as a world model. [![arXiv](https://img.shields.io/badge/arXiv-2506.01103-b31b1b.svg)](http://arxiv.org/abs/2506.01103) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sotamak1r.github.io/deepverse/)
 
 #### Multi-Agent Interaction:
+- **Prisma-World** - Prisma-World: Camera-Controllable Multi-Agent Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.09507-b31b1b.svg)](https://arxiv.org/abs/2606.09507) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huiqiang-sun.github.io/prisma-world/) 
 - **Gamma-World** - Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players. [![arXiv](https://img.shields.io/badge/arXiv-2605.28816-b31b1b.svg)](https://arxiv.org/abs/2605.28816) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/sil/projects/gamma-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/nv-tlabs/Gamma-World)
 - **MultiWorld** - MultiWorld: Scalable Multi-Agent Multi-View Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.18564-b31b1b.svg)](https://arxiv.org/abs/2604.18564) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://multi-world.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/CIntellifusion/MultiWorld)
 - **ActionParty** - ActionParty: Multi-Subject Action Binding in Generative Video Games. [![arXiv](https://img.shields.io/badge/arXiv-2604.02330-b31b1b.svg)](https://arxiv.org/abs/2604.02330) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://action-party.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/action-party/action-party)
