@@ -243,9 +243,10 @@ Entries may appear in multiple sections when one paper contributes to several re
 - **[2026-5-18][Odyssey] Agora-1** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://odyssey.ml/introducing-agora-1)
 - **[2026-4-23][Odyssey] Odyssey-2 Max** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://howaiworks.ai/blog/odyssey-2-max-world-model-physics)
 - **[2026-4-16][Alibaba] Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
-- **[2025-8-5][Google] Genie 3** - Genie 3: A new frontier for world models. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/)
-- **[2024-12-4][Google] Genie 2** - Genie 2: A Large-scale Foundation World Model. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
-- **[2024-2-23][Google] Genie** - Genie: Generative Interactive Environments. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/genie-2024/)
+- **[2025-8-21][Dynamics Lab] Mirage 2** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.mirage2.org/about)
+- **[2025-8-5][Google] Genie 3**  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/)
+- **[2024-12-4][Google] Genie 2** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+- **[2024-2-23][Google] Genie** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/genie-2024/)
 
 <a id="recent-research-trends"></a>
 ## 🔭 Recent Research Trends
