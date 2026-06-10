@@ -38,10 +38,10 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *five most recent* works are:
+- **[2026-6-8]BiWM** - BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression. [![arXiv](https://img.shields.io/badge/arXiv-2606.10135-b31b1b.svg)](https://arxiv.org/abs/2606.10135) 
 - **[2026-6-8]w-EVA** - w-EVA: Envision, Verify, and Act with Latent Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.09457-b31b1b.svg)](https://arxiv.org/abs/2606.09457) 
 - **[2026-6-8]Prisma-World** - Prisma-World: Camera-Controllable Multi-Agent Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.09507-b31b1b.svg)](https://arxiv.org/abs/2606.09507) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huiqiang-sun.github.io/prisma-world/) 
 - **[2026-6-5]AnchorWorld** - AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization. [![arXiv](https://img.shields.io/badge/arXiv-2606.07326-b31b1b.svg)](https://arxiv.org/abs/2606.07326) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuli0103.github.io/AnchorWorld/)
-- **[2026-6-4][ACE Robotics] HomeWorld** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kairos-homeworld.github.io/)
 - **[2026-6-1] MetaWorld** - MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data. [![arXiv](https://img.shields.io/badge/arXiv-2606.02753-b31b1b.svg)](https://arxiv.org/abs/2606.02753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sjtuplayer.github.io/projects/MetaWorld/)
  
 
@@ -99,6 +99,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="open-world-exploration"></a>
 ### 🌍 Open-world Exploration
+- **BiWM** - BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression. [![arXiv](https://img.shields.io/badge/arXiv-2606.10135-b31b1b.svg)](https://arxiv.org/abs/2606.10135) 
 - **Prisma-World** - Prisma-World: Camera-Controllable Multi-Agent Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.09507-b31b1b.svg)](https://arxiv.org/abs/2606.09507) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huiqiang-sun.github.io/prisma-world/)
 - **AnchorWorld** - AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization. [![arXiv](https://img.shields.io/badge/arXiv-2606.07326-b31b1b.svg)](https://arxiv.org/abs/2606.07326) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuli0103.github.io/AnchorWorld/)
 - **HomeWorld** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kairos-homeworld.github.io/)
