@@ -38,6 +38,8 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent* works are:
+- **[2026-6-15]DreamX-World 1.0** - DreamX-World 1.0: A General-Purpose Interactive World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.16993-b31b1b.svg)](https://arxiv.org/abs/2606.16993) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://amap-ml.github.io/DreamX_World/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/AMAP-ML/DreamX-World)
+- **[2026-6-15]BadWorld** - BadWorld: Adversarial Attacks on World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.16519-b31b1b.svg)](https://arxiv.org/abs/2606.16519) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://linghuiishen.github.io/BadWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/LinghuiiShen/BadWorld)  
 - **[2026-6-12]MoVerse** - MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold. [![arXiv](https://img.shields.io/badge/arXiv-2606.13376-b31b1b.svg)](https://arxiv.org/abs/2606.13376) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://orange-3dv-team.github.io/MoVerse/)  
 - **[2026-6-8]BiWM** - BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression. [![arXiv](https://img.shields.io/badge/arXiv-2606.10135-b31b1b.svg)](https://arxiv.org/abs/2606.10135) 
 - **[2026-6-8]w-EVA** - w-EVA: Envision, Verify, and Act with Latent Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.09457-b31b1b.svg)](https://arxiv.org/abs/2606.09457) 
@@ -100,6 +102,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="open-world-exploration"></a>
 ### 🌍 Open-world Exploration
+- **BadWorld** - BadWorld: Adversarial Attacks on World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.16519-b31b1b.svg)](https://arxiv.org/abs/2606.16519) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://linghuiishen.github.io/BadWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/LinghuiiShen/BadWorld)  
 - **MoVerse** - MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold. [![arXiv](https://img.shields.io/badge/arXiv-2606.13376-b31b1b.svg)](https://arxiv.org/abs/2606.13376) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://orange-3dv-team.github.io/MoVerse/) 
 - **BiWM** - BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression. [![arXiv](https://img.shields.io/badge/arXiv-2606.10135-b31b1b.svg)](https://arxiv.org/abs/2606.10135) 
 - **Prisma-World** - Prisma-World: Camera-Controllable Multi-Agent Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.09507-b31b1b.svg)](https://arxiv.org/abs/2606.09507) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huiqiang-sun.github.io/prisma-world/)
@@ -162,6 +165,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **BadWorld** - BadWorld: Adversarial Attacks on World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.16519-b31b1b.svg)](https://arxiv.org/abs/2606.16519) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://linghuiishen.github.io/BadWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/LinghuiiShen/BadWorld)  
 - **Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
 - **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 - **Gamma-World** - Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players. [![arXiv](https://img.shields.io/badge/arXiv-2605.28816-b31b1b.svg)](https://arxiv.org/abs/2605.28816) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/sil/projects/gamma-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/nv-tlabs/Gamma-World)
