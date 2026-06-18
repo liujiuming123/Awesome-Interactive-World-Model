@@ -37,7 +37,8 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 
 ## 🚩 News & Updates
-⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent* works are:
+⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-6-17] Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
 - **[2026-6-16]GameCraft-Bench** - GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine? [![arXiv](https://img.shields.io/badge/arXiv-2606.17861-b31b1b.svg)](https://arxiv.org/abs/2606.17861) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tongxuluo.github.io/gamecraft-bench-website/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/tongxuluo/gamecraft-bench)
 - **[2026-6-16]ActWorld** - ActWorld: From Explorable to Interactive World Model via Action-Aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.17730-b31b1b.svg)](https://arxiv.org/abs/2606.17730) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://interactwm.github.io/ActWorld/)
 - **[2026-6-16]OmniDrive** - OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2606.17536-b31b1b.svg)](https://arxiv.org/abs/2606.17536)
@@ -237,6 +238,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="embodied-ai-and-robotics"></a>
 ### 🤖 Embodied AI and Robotics
+- **Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
 - **w-EVA** - w-EVA: Envision, Verify, and Act with Latent Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.09457-b31b1b.svg)](https://arxiv.org/abs/2606.09457) 
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
 - **Lyra 2.0** - Lyra 2.0: Explorable Generative 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.13036-b31b1b.svg)](https://arxiv.org/abs/2604.13036) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/sil/projects/lyra2/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/nv-tlabs/lyra)
@@ -396,6 +398,7 @@ Most of interactive world models adopt an autoregressive paradigm, so we just li
 
 <a id="memory-construction"></a>
 ### 🗃️ Memory Construction
+- **Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
 - **ActWorld** - ActWorld: From Explorable to Interactive World Model via Action-Aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.17730-b31b1b.svg)](https://arxiv.org/abs/2606.17730) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://interactwm.github.io/ActWorld/)
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
 - **MosaicMem** - MosaicMem: Hybrid Spatial Memory for Controllable Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.17117-b31b1b.svg)](https://arxiv.org/abs/2603.17117) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mosaicmem.github.io/mosaicmem/)
