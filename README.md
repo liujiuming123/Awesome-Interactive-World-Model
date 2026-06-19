@@ -38,7 +38,8 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
-- **[2026-6-17] Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
+- **[2026-6-18] Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
+- **[2026-6-17] Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
 - **[2026-6-16]GameCraft-Bench** - GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine? [![arXiv](https://img.shields.io/badge/arXiv-2606.17861-b31b1b.svg)](https://arxiv.org/abs/2606.17861) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tongxuluo.github.io/gamecraft-bench-website/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/tongxuluo/gamecraft-bench)
 - **[2026-6-16]ActWorld** - ActWorld: From Explorable to Interactive World Model via Action-Aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.17730-b31b1b.svg)](https://arxiv.org/abs/2606.17730) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://interactwm.github.io/ActWorld/)
 - **[2026-6-16]OmniDrive** - OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2606.17536-b31b1b.svg)](https://arxiv.org/abs/2606.17536)
@@ -65,9 +66,6 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 }
 
 ```
-
-
-
 
 Entries may appear in multiple sections when one paper contributes to several research axes.
 ## 📚 Overview
@@ -106,6 +104,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="open-world-exploration"></a>
 ### 🌍 Open-world Exploration
+- **Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
 - **ActWorld** - ActWorld: From Explorable to Interactive World Model via Action-Aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.17730-b31b1b.svg)](https://arxiv.org/abs/2606.17730) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://interactwm.github.io/ActWorld/)
 - **BadWorld** - BadWorld: Adversarial Attacks on World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.16519-b31b1b.svg)](https://arxiv.org/abs/2606.16519) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://linghuiishen.github.io/BadWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/LinghuiiShen/BadWorld)  
 - **MoVerse** - MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold. [![arXiv](https://img.shields.io/badge/arXiv-2606.13376-b31b1b.svg)](https://arxiv.org/abs/2606.13376) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://orange-3dv-team.github.io/MoVerse/) 
@@ -286,6 +285,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 <a id="static-to-dynamic-and-multi-agent-worlds"></a>
 ### 🌀 Static to Dynamic and Multi-agent Worlds
 #### Dynamics (Out of Sight Dynamics and Self-evolution):
+- **Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
 - **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **Inspatio-world** - Inspatio-world: A real-time 4d world simulator via spatiotemporal autoregressive modeling. [![arXiv](https://img.shields.io/badge/arXiv-2604.07209-b31b1b.svg)](http://arxiv.org/abs/2604.07209) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://inspatio.github.io/inspatio-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/inspatio/inspatio-world)
 - **HM-World** - Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.25716-b31b1b.svg)](https://arxiv.org/abs/2603.25716) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/H-EmbodVis/HyDRA)
