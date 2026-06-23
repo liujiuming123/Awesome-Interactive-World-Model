@@ -38,6 +38,7 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-6-22] IOI** - IOI: Decoupling Kinematics and Physics for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.23296-b31b1b.svg)](https://arxiv.org/abs/2606.23296) 
 - **[2026-6-18] Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
 - **[2026-6-17] Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
 - **[2026-6-16]GameCraft-Bench** - GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine? [![arXiv](https://img.shields.io/badge/arXiv-2606.17861-b31b1b.svg)](https://arxiv.org/abs/2606.17861) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tongxuluo.github.io/gamecraft-bench-website/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/tongxuluo/gamecraft-bench)
@@ -237,6 +238,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="embodied-ai-and-robotics"></a>
 ### 🤖 Embodied AI and Robotics
+- **IOI** - IOI: Decoupling Kinematics and Physics for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.23296-b31b1b.svg)](https://arxiv.org/abs/2606.23296) 
 - **Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
 - **w-EVA** - w-EVA: Envision, Verify, and Act with Latent Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.09457-b31b1b.svg)](https://arxiv.org/abs/2606.09457) 
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
@@ -285,6 +287,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 <a id="static-to-dynamic-and-multi-agent-worlds"></a>
 ### 🌀 Static to Dynamic and Multi-agent Worlds
 #### Dynamics (Out of Sight Dynamics and Self-evolution):
+- **IOI** - IOI: Decoupling Kinematics and Physics for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.23296-b31b1b.svg)](https://arxiv.org/abs/2606.23296) 
 - **Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
 - **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **Inspatio-world** - Inspatio-world: A real-time 4d world simulator via spatiotemporal autoregressive modeling. [![arXiv](https://img.shields.io/badge/arXiv-2604.07209-b31b1b.svg)](http://arxiv.org/abs/2604.07209) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://inspatio.github.io/inspatio-world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/inspatio/inspatio-world)
