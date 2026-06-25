@@ -38,6 +38,7 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-6-24]Causal-rCM** - Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.25473-b31b1b.svg)](https://arxiv.org/abs/2606.25473) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/NVlabs/rcm) 
 - **[2026-6-22] IOI** - IOI: Decoupling Kinematics and Physics for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.23296-b31b1b.svg)](https://arxiv.org/abs/2606.23296) 
 - **[2026-6-18] Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
 - **[2026-6-17] Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
@@ -461,6 +462,7 @@ Representative works are listed here.
 
 <a id="efficient-rollout"></a>
 ### 🚀 Efficient Rollout
+- **Causal-rCM** - Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.25473-b31b1b.svg)](https://arxiv.org/abs/2606.25473) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/NVlabs/rcm) 
 - **Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
 - **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
 - **SANA-WM** - SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer. [![arXiv](https://img.shields.io/badge/arXiv-2605.15178-b31b1b.svg)](https://arxiv.org/abs/2605.15178) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/Sana/WM/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/NVlabs/Sana)
