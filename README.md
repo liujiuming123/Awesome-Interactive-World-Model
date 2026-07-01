@@ -38,8 +38,9 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
-- **[ECCV26] [2026-6-29]NeuWorld** - Walking in the Implicit: Interactive World Exploration via Neural Scene Representation. [![arXiv](https://img.shields.io/badge/arXiv-2606.30045-b31b1b.svg)](https://arxiv.org/abs/2606.30045) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lizhiqi49.github.io/NeuWorld/)
-- **[ECCV26] [2026-6-29]A2World** - Learning Transferable Dynamics Priors from Action to World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2606.29501-b31b1b.svg)](https://arxiv.org/abs/2606.29501)
+- **[ECCV'26] [2026-6-30]MemLearner** - MemLearner: Learning to Query Context memory for Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.31734-b31b1b.svg)](https://arxiv.org/abs/2606.31734) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/memlearner/)
+- **[ECCV'26] [2026-6-29]NeuWorld** - Walking in the Implicit: Interactive World Exploration via Neural Scene Representation. [![arXiv](https://img.shields.io/badge/arXiv-2606.30045-b31b1b.svg)](https://arxiv.org/abs/2606.30045) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lizhiqi49.github.io/NeuWorld/)
+- **[ECCV'26] [2026-6-29]A2World** - Learning Transferable Dynamics Priors from Action to World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2606.29501-b31b1b.svg)](https://arxiv.org/abs/2606.29501)
 - **[2026-6-29]Orca** - Orca: The World is in Your Mind. [![arXiv](https://img.shields.io/badge/arXiv-2606.30534-b31b1b.svg)](https://arxiv.org/abs/2606.30534) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://orca-wm.github.io/) 
 - **[2026-6-29]DreamForge-World** - DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.30292-b31b1b.svg)](https://arxiv.org/abs/2606.30292) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://trydreamforge.com/#demos) 
 - **[2026-6-24]Causal-rCM** - Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.25473-b31b1b.svg)](https://arxiv.org/abs/2606.25473) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/NVlabs/rcm) 
@@ -110,6 +111,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="open-world-exploration"></a>
 ### 🌍 Open-world Exploration
+- **[ECCV'26] NeuWorld** - Walking in the Implicit: Interactive World Exploration via Neural Scene Representation. [![arXiv](https://img.shields.io/badge/arXiv-2606.30045-b31b1b.svg)](https://arxiv.org/abs/2606.30045) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lizhiqi49.github.io/NeuWorld/)
 - **Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
 - **ActWorld** - ActWorld: From Explorable to Interactive World Model via Action-Aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.17730-b31b1b.svg)](https://arxiv.org/abs/2606.17730) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://interactwm.github.io/ActWorld/)
 - **BadWorld** - BadWorld: Adversarial Attacks on World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.16519-b31b1b.svg)](https://arxiv.org/abs/2606.16519) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://linghuiishen.github.io/BadWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/LinghuiiShen/BadWorld)  
@@ -292,6 +294,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 <a id="static-to-dynamic-and-multi-agent-worlds"></a>
 ### 🌀 Static to Dynamic and Multi-agent Worlds
 #### Dynamics (Out of Sight Dynamics and Self-evolution):
+- **[ECCV'26] A2World** - Learning Transferable Dynamics Priors from Action to World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2606.29501-b31b1b.svg)](https://arxiv.org/abs/2606.29501)
 - **IOI** - IOI: Decoupling Kinematics and Physics for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.23296-b31b1b.svg)](https://arxiv.org/abs/2606.23296) 
 - **Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
 - **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
@@ -406,6 +409,7 @@ Most of interactive world models adopt an autoregressive paradigm, so we just li
 
 <a id="memory-construction"></a>
 ### 🗃️ Memory Construction
+- **[ECCV'26] MemLearner** - MemLearner: Learning to Query Context memory for Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.31734-b31b1b.svg)](https://arxiv.org/abs/2606.31734) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/memlearner/)
 - **Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
 - **ActWorld** - ActWorld: From Explorable to Interactive World Model via Action-Aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.17730-b31b1b.svg)](https://arxiv.org/abs/2606.17730) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://interactwm.github.io/ActWorld/)
 - **HY-World 2.0** - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b.svg)](https://arxiv.org/abs/2604.14268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Tencent-Hunyuan/HY-World-2.0)
