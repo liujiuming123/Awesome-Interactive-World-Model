@@ -38,6 +38,7 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-7-2]WorldDirector** - WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory. [![arXiv](https://img.shields.io/badge/arXiv-2607.02517-b31b1b.svg)](https://arxiv.org/abs/2607.02517) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worlddirector.github.io/)
 - **[ECCV'26] [2026-6-30]MemLearner** - MemLearner: Learning to Query Context memory for Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.31734-b31b1b.svg)](https://arxiv.org/abs/2606.31734) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/memlearner/)
 - **[2026-6-30]WorldRoamBench** - WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.31672-b31b1b.svg)](https://arxiv.org/abs/2606.31672) 
 - **[ECCV'26] [2026-6-29]NeuWorld** - Walking in the Implicit: Interactive World Exploration via Neural Scene Representation. [![arXiv](https://img.shields.io/badge/arXiv-2606.30045-b31b1b.svg)](https://arxiv.org/abs/2606.30045) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lizhiqi49.github.io/NeuWorld/)
@@ -112,6 +113,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="open-world-exploration"></a>
 ### 🌍 Open-world Exploration
+- **WorldDirector** - WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory. [![arXiv](https://img.shields.io/badge/arXiv-2607.02517-b31b1b.svg)](https://arxiv.org/abs/2607.02517) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worlddirector.github.io/)
 - **[ECCV'26] NeuWorld** - Walking in the Implicit: Interactive World Exploration via Neural Scene Representation. [![arXiv](https://img.shields.io/badge/arXiv-2606.30045-b31b1b.svg)](https://arxiv.org/abs/2606.30045) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lizhiqi49.github.io/NeuWorld/)
 - **Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
 - **ActWorld** - ActWorld: From Explorable to Interactive World Model via Action-Aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.17730-b31b1b.svg)](https://arxiv.org/abs/2606.17730) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://interactwm.github.io/ActWorld/)
@@ -410,6 +412,7 @@ Most of interactive world models adopt an autoregressive paradigm, so we just li
 
 <a id="memory-construction"></a>
 ### 🗃️ Memory Construction
+- **WorldDirector** - WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory. [![arXiv](https://img.shields.io/badge/arXiv-2607.02517-b31b1b.svg)](https://arxiv.org/abs/2607.02517) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worlddirector.github.io/)
 - **[ECCV'26] MemLearner** - MemLearner: Learning to Query Context memory for Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.31734-b31b1b.svg)](https://arxiv.org/abs/2606.31734) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/memlearner/)
 - **Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
 - **ActWorld** - ActWorld: From Explorable to Interactive World Model via Action-Aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.17730-b31b1b.svg)](https://arxiv.org/abs/2606.17730) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://interactwm.github.io/ActWorld/)
