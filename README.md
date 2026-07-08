@@ -38,6 +38,8 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-7-7]RynnWorld-Teleop** - RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation. [![arXiv](https://img.shields.io/badge/arXiv-2607.06558-b31b1b.svg)](https://arxiv.org/abs/2607.06558) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/alibaba-damo-academy/RynnWorld-Teleop)
+- **[2026-7-7]AlayaWorld** - AlayaWorld: Long-Horizon and Playable Video World Generation. [![arXiv](https://img.shields.io/badge/arXiv-2607.05352-b31b1b.svg)](https://arxiv.org/abs/2607.06291) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alaya-lab.github.io/AlayaWorld/) 
 - **[2026-7-6]MIRA** - Multiplayer Interactive World Models with Representation Autoencoders. [![arXiv](https://img.shields.io/badge/arXiv-2607.05352-b31b1b.svg)](https://arxiv.org/abs/2607.05352) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mira-wm.com/blog-post/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/mira-wm/mira)
 - **[2026-7-2]WorldDirector** - WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory. [![arXiv](https://img.shields.io/badge/arXiv-2607.02517-b31b1b.svg)](https://arxiv.org/abs/2607.02517) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worlddirector.github.io/)
 - **[ECCV'26] [2026-6-30]MemLearner** - MemLearner: Learning to Query Context memory for Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.31734-b31b1b.svg)](https://arxiv.org/abs/2606.31734) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/memlearner/)
@@ -181,6 +183,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **AlayaWorld** - AlayaWorld: Long-Horizon and Playable Video World Generation. [![arXiv](https://img.shields.io/badge/arXiv-2607.05352-b31b1b.svg)](https://arxiv.org/abs/2607.06291) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alaya-lab.github.io/AlayaWorld/) 
 - **MIRA** - Multiplayer Interactive World Models with Representation Autoencoders. [![arXiv](https://img.shields.io/badge/arXiv-2607.05352-b31b1b.svg)](https://arxiv.org/abs/2607.05352) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mira-wm.com/blog-post/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/mira-wm/mira)
 - **GameCraft-Bench** - GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine? [![arXiv](https://img.shields.io/badge/arXiv-2606.17861-b31b1b.svg)](https://arxiv.org/abs/2606.17861) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tongxuluo.github.io/gamecraft-bench-website/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/tongxuluo/gamecraft-bench)
 - **BadWorld** - BadWorld: Adversarial Attacks on World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.16519-b31b1b.svg)](https://arxiv.org/abs/2606.16519) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://linghuiishen.github.io/BadWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/LinghuiiShen/BadWorld)  
@@ -250,6 +253,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="embodied-ai-and-robotics"></a>
 ### 🤖 Embodied AI and Robotics
+- **RynnWorld-Teleop** - RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation. [![arXiv](https://img.shields.io/badge/arXiv-2607.06558-b31b1b.svg)](https://arxiv.org/abs/2607.06558) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/alibaba-damo-academy/RynnWorld-Teleop)
 - **IOI** - IOI: Decoupling Kinematics and Physics for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.23296-b31b1b.svg)](https://arxiv.org/abs/2606.23296) 
 - **Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
 - **w-EVA** - w-EVA: Envision, Verify, and Act with Latent Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.09457-b31b1b.svg)](https://arxiv.org/abs/2606.09457) 
