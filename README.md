@@ -275,7 +275,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="industry"></a>
 ## 🚀 Industry Products
-
+- **[2026-7-8][Robbyant] LingBot-World 2.0** - Infinite Worlds with Versatile Interactions. [![arXiv](https://img.shields.io/badge/arXiv-2607.07534-b31b1b.svg)](https://arxiv.org/abs/2607.07534) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-world-v2) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/robbyant/lingbot-world-v2)
 - **[2026-6-1][VAST] Project Eden** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.tripo3d.ai/research/project-eden)
 - **[2026-5-27][PixVerse]PixVerse R1** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pixverse.ai/en/blog/pixverse-r1-next-generation-real-time-world-model)
 - **[2026-5-18][Odyssey] Agora-1** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://odyssey.ml/introducing-agora-1)
