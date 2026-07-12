@@ -119,6 +119,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="open-world-exploration"></a>
 ### 🌍 Open-world Exploration
+- **Canvas360** - Enhancing In-context Panoramic Generation via Geometric-aware Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2607.08765-b31b1b.svg)](https://arxiv.org/abs/2607.08765) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zry000.github.io/Canvas360/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Insta360-Research-Team/Canvas360)
 - **WorldDirector** - WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory. [![arXiv](https://img.shields.io/badge/arXiv-2607.02517-b31b1b.svg)](https://arxiv.org/abs/2607.02517) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worlddirector.github.io/)
 - **[ECCV'26] NeuWorld** - Walking in the Implicit: Interactive World Exploration via Neural Scene Representation. [![arXiv](https://img.shields.io/badge/arXiv-2606.30045-b31b1b.svg)](https://arxiv.org/abs/2606.30045) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lizhiqi49.github.io/NeuWorld/)
 - **Holo-World** - Holo-World: Unified Camera, Object and Weather Control for Video World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.20083-b31b1b.svg)](https://arxiv.org/abs/2606.20083) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xiangchenyin.github.io/Holo-World/) 
