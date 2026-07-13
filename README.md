@@ -402,6 +402,7 @@ Most of recent works belong to this category, so we just list some representatio
 - **[ICCV'25] VMem** - VMem: Consistent Interactive Video Scene Generation with Surfel-indexed View Memory. [![arXiv](https://img.shields.io/badge/arXiv-2506.18903-b31b1b.svg)](https://arxiv.org/abs/2506.18903) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://v-mem.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/runjiali-rl/vmem)
 
 #### Matrix Transformation:
+- **PanoWorld** - PanoWorld: Real-World Panoramic Generation. [![arXiv](https://img.shields.io/badge/arXiv-2607.09661-b31b1b.svg)](https://arxiv.org/abs/2607.09661) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lihaoy-ux.github.io/panoworld-page/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Insta360-Research-Team/PanoWorld)
 - **[NeurIPS'25] IaaW** - Image as a World: Generating Interactive World from Single Image via Panoramic Video Generation. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.microsoft.com/en-us/research/publication/image-as-a-world-generating-interactive-world-from-single-image-via-panoramic-video-generation/)
 - **GenEx** GenEx: Generating an Explorable World. [![arXiv](https://img.shields.io/badge/arXiv-2412.09624-b31b1b.svg)](https://arxiv.org/abs/2412.09624) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://genex.world/) 
 
