@@ -38,6 +38,8 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-7-15]From Pixels to States** - From Pixels to States: Rethinking Interactive World Models as Game Engines. [![arXiv](https://img.shields.io/badge/arXiv-2607.14076-b31b1b.svg)](https://arxiv.org/abs/2607.14076)
+- **[2026-7-15]M4World** - M4World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming. [![arXiv](https://img.shields.io/badge/arXiv-2607.14005-b31b1b.svg)](https://arxiv.org/abs/2607.14005) 
 - **[2026-7-10]PanoWorld** - PanoWorld: Real-World Panoramic Generation. [![arXiv](https://img.shields.io/badge/arXiv-2607.09661-b31b1b.svg)](https://arxiv.org/abs/2607.09661) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lihaoy-ux.github.io/panoworld-page/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Insta360-Research-Team/PanoWorld)
 - **[2026-7-9]Canvas360** - Enhancing In-context Panoramic Generation via Geometric-aware Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2607.08765-b31b1b.svg)](https://arxiv.org/abs/2607.08765) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zry000.github.io/Canvas360/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Insta360-Research-Team/Canvas360)
 - **[2026-7-8]LingBot-World 2.0** - Infinite Worlds with Versatile Interactions. [![arXiv](https://img.shields.io/badge/arXiv-2607.07534-b31b1b.svg)](https://arxiv.org/abs/2607.07534) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-world-v2) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/robbyant/lingbot-world-v2)
@@ -188,6 +190,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **From Pixels to States** - From Pixels to States: Rethinking Interactive World Models as Game Engines. [![arXiv](https://img.shields.io/badge/arXiv-2607.14076-b31b1b.svg)](https://arxiv.org/abs/2607.14076)
 - **AlayaWorld** - AlayaWorld: Long-Horizon and Playable Video World Generation. [![arXiv](https://img.shields.io/badge/arXiv-2607.05352-b31b1b.svg)](https://arxiv.org/abs/2607.06291) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alaya-lab.github.io/AlayaWorld/) 
 - **MIRA** - Multiplayer Interactive World Models with Representation Autoencoders. [![arXiv](https://img.shields.io/badge/arXiv-2607.05352-b31b1b.svg)](https://arxiv.org/abs/2607.05352) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mira-wm.com/blog-post/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/mira-wm/mira)
 - **GameCraft-Bench** - GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine? [![arXiv](https://img.shields.io/badge/arXiv-2606.17861-b31b1b.svg)](https://arxiv.org/abs/2606.17861) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tongxuluo.github.io/gamecraft-bench-website/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/tongxuluo/gamecraft-bench)
@@ -241,6 +244,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="autonomous-driving"></a>
 ### 🚗 Autonomous Driving
+- **M4World** - M4World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming. [![arXiv](https://img.shields.io/badge/arXiv-2607.14005-b31b1b.svg)](https://arxiv.org/abs/2607.14005) 
 - **OmniDrive** - OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2606.17536-b31b1b.svg)](https://arxiv.org/abs/2606.17536)
 - **[ICML'26] VectorWorld** - VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs. [![arXiv](https://img.shields.io/badge/arXiv-2603.17652-b31b1b.svg)](https://arxiv.org/abs/2603.17652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiangchaokang.github.io/VectorWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jiangchaokang/VectorWorld)
 - **Vega** - Vega: Learning to Drive with Natural Language Instructions. [![arXiv](https://img.shields.io/badge/arXiv-2603.25741-b31b1b.svg)](https://arxiv.org/abs/2603.25741) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zuosc19.github.io/Vega/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/zuosc19/Vega)
