@@ -38,6 +38,8 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-7-21]ABot-World-0** - ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU. [![arXiv](https://img.shields.io/badge/arXiv-2607.19191-b31b1b.svg)](https://arxiv.org/abs/2607.19191)
+- **[2026-7-20]AlayaWorld** - AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2607.18367-b31b1b.svg)](https://arxiv.org/abs/2607.18367)
 - **[2026-7-20]GeoWorldAD** - GeoWorldAD: Geometry World Action Model for Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2607.17521-b31b1b.svg)](https://arxiv.org/pdf/2607.17521)
 - **[2026-7-17]Orbis 2** - Orbis 2: A Hierarchical World Model for Driving. [![arXiv](https://img.shields.io/badge/arXiv-2607.15898-b31b1b.svg)](https://arxiv.org/abs/2607.15898) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lmb-freiburg.github.io/orbis2.github.io/)
 - **[2026-7-15]From Pixels to States** - From Pixels to States: Rethinking Interactive World Models as Game Engines. [![arXiv](https://img.shields.io/badge/arXiv-2607.14076-b31b1b.svg)](https://arxiv.org/abs/2607.14076)
@@ -481,6 +483,7 @@ Representative works are listed here.
 
 <a id="efficient-rollout"></a>
 ### 🚀 Efficient Rollout
+- **ABot-World-0** - ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU. [![arXiv](https://img.shields.io/badge/arXiv-2607.19191-b31b1b.svg)](https://arxiv.org/abs/2607.19191)
 - **Causal-rCM** - Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.25473-b31b1b.svg)](https://arxiv.org/abs/2606.25473) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/NVlabs/rcm) 
 - **Light Interaction** - Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.31158-b31b1b.svg)](https://arxiv.org/abs/2605.31158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://2843721358l-del.github.io/Light-Interaction-Project/) 
 - **minWM** - minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/shengshu-ai/minWM) 
