@@ -38,6 +38,8 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-8-10]Sekai2** - Sekai2: From World Exploration to Interactive World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2608.09449-b31b1b.svg)](https://arxiv.org/abs/2608.09449) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kangverse.github.io/sekai2-project/)
+- **[2026-8-9]Khora** - Population-Scalable Multi-Agent World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2608.08600-b31b1b.svg)](https://arxiv.org/abs/2608.08600) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.rhos.ai/research/khora?lang=en)
 - **[2026-7-21]ABot-World-0** - ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU. [![arXiv](https://img.shields.io/badge/arXiv-2607.19191-b31b1b.svg)](https://arxiv.org/abs/2607.19191)
 - **[2026-7-20]AlayaWorld** - AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2607.18367-b31b1b.svg)](https://arxiv.org/abs/2607.18367)
 - **[2026-7-20]GeoWorldAD** - GeoWorldAD: Geometry World Action Model for Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2607.17521-b31b1b.svg)](https://arxiv.org/pdf/2607.17521)
