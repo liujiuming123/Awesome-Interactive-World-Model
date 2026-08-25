@@ -38,6 +38,7 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-8-24]ReWorld** - ReWorld: An Interactive World Model with Long-Horizon Memory. [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b.svg)](https://arxiv.org/abs/2608.23565) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhifeichen097.github.io/ReWorld/) 
 - **[2026-8-24]EchoWM** - EchoWM: Open and Enterable Omnimodal World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.23189-b31b1b.svg)](https://arxiv.org/abs/2608.23189) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/wm/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jd-opensource/JoyAI-Echo)
 - **[ECCV 2026]LivingWorld** - LivingWorld: Interactive 4D World Generation with Environmental Dynamics. [![arXiv](https://img.shields.io/badge/arXiv-2604.01641-b31b1b.svg)](https://arxiv.org/abs/2604.01641) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://paper.pnu-cvsp.com/LivingWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/cvsp-lab/LivingWorld)
 - **[2026-8-14]ForgeWM** - ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.14022-b31b1b.svg)](https://arxiv.org/abs/2608.14022) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://asdfo123.github.io/ForgeWM/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/asdfo123/ForgeWM)
@@ -360,6 +361,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="single-sensory-to-multi-sensory-interfaces"></a>
 ### 🔊 Single-sensory to Multi-sensory Interfaces
+- **EchoWM** - EchoWM: Open and Enterable Omnimodal World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.23189-b31b1b.svg)](https://arxiv.org/abs/2608.23189) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/wm/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jd-opensource/JoyAI-Echo)
 - **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **[CVPR'26] SonoWorld** - SonoWorld: From One Image to a 3D Audio-Visual Scene. [![arXiv](https://img.shields.io/badge/arXiv-2603.28757v1-b31b1b.svg)](https://arxiv.org/abs/2603.28757v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://humathe.github.io/sonoworld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/HuMathe/sonoworld)
 - **GAIA-2** - GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2503.20523-b31b1b.svg)](https://arxiv.org/abs/2503.20523) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://anthonyhu.github.io/gaia2)
@@ -441,6 +443,7 @@ Most of interactive world models adopt an autoregressive paradigm, so we just li
 
 <a id="memory-construction"></a>
 ### 🗃️ Memory Construction
+- **ReWorld** - ReWorld: An Interactive World Model with Long-Horizon Memory. [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b.svg)](https://arxiv.org/abs/2608.23565) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhifeichen097.github.io/ReWorld/) 
 - **WorldDirector** - WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory. [![arXiv](https://img.shields.io/badge/arXiv-2607.02517-b31b1b.svg)](https://arxiv.org/abs/2607.02517) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worlddirector.github.io/)
 - **[ECCV'26] MemLearner** - MemLearner: Learning to Query Context memory for Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.31734-b31b1b.svg)](https://arxiv.org/abs/2606.31734) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/memlearner/)
 - **Mem-World** - Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-2606.18960-b31b1b.svg)](https://arxiv.org/abs/2606.18960)
