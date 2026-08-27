@@ -38,6 +38,7 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-8-25]Game2World Engine** - Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training. [![arXiv](https://img.shields.io/badge/arXiv-2608.24680-b31b1b.svg)](https://arxiv.org/abs/2608.24680) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Dongping-Chen/Game2World)
 - **[2026-8-24]ReWorld** - ReWorld: An Interactive World Model with Long-Horizon Memory. [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b.svg)](https://arxiv.org/abs/2608.23565) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhifeichen097.github.io/ReWorld/)
 - **[2026-8-24]JoyAI-Echo-1.5** - Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2608.23383-b31b1b.svg)](https://arxiv.org/abs/2608.23383) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jd-opensource/JoyAI-Echo)
 - **[2026-8-24]EchoWM** - EchoWM: Open and Enterable Omnimodal World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.23189-b31b1b.svg)](https://arxiv.org/abs/2608.23189) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/wm/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jd-opensource/JoyAI-Echo)
@@ -199,6 +200,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **Game2World Engine** - Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training. [![arXiv](https://img.shields.io/badge/arXiv-2608.24680-b31b1b.svg)](https://arxiv.org/abs/2608.24680) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Dongping-Chen/Game2World)
 - **From Pixels to States** - From Pixels to States: Rethinking Interactive World Models as Game Engines. [![arXiv](https://img.shields.io/badge/arXiv-2607.14076-b31b1b.svg)](https://arxiv.org/abs/2607.14076)
 - **AlayaWorld** - AlayaWorld: Long-Horizon and Playable Video World Generation. [![arXiv](https://img.shields.io/badge/arXiv-2607.05352-b31b1b.svg)](https://arxiv.org/abs/2607.06291) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alaya-lab.github.io/AlayaWorld/) 
 - **MIRA** - Multiplayer Interactive World Models with Representation Autoencoders. [![arXiv](https://img.shields.io/badge/arXiv-2607.05352-b31b1b.svg)](https://arxiv.org/abs/2607.05352) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mira-wm.com/blog-post/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/mira-wm/mira)
