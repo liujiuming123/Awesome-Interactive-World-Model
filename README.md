@@ -362,6 +362,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="single-sensory-to-multi-sensory-interfaces"></a>
 ### 🔊 Single-sensory to Multi-sensory Interfaces
+- **JoyAI-Echo-1.5** - Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2608.23383-b31b1b.svg)](https://arxiv.org/abs/2608.23383) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jd-opensource/JoyAI-Echo)
 - **EchoWM** - EchoWM: Open and Enterable Omnimodal World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.23189-b31b1b.svg)](https://arxiv.org/abs/2608.23189) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/wm/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jd-opensource/JoyAI-Echo)
 - **Happy Oyster** [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.happyoyster.cn/)
 - **[CVPR'26] SonoWorld** - SonoWorld: From One Image to a 3D Audio-Visual Scene. [![arXiv](https://img.shields.io/badge/arXiv-2603.28757v1-b31b1b.svg)](https://arxiv.org/abs/2603.28757v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://humathe.github.io/sonoworld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/HuMathe/sonoworld)
