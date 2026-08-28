@@ -38,6 +38,7 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-8-27]R2M-Bench** - R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b.svg)](https://arxiv.org/abs/2608.23565) 
 - **[2026-8-25]Game2World Engine** - Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training. [![arXiv](https://img.shields.io/badge/arXiv-2608.24680-b31b1b.svg)](https://arxiv.org/abs/2608.24680) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Dongping-Chen/Game2World)
 - **[2026-8-24]ReWorld** - ReWorld: An Interactive World Model with Long-Horizon Memory. [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b.svg)](https://arxiv.org/abs/2608.23565) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhifeichen097.github.io/ReWorld/)
 - **[2026-8-24]JoyAI-Echo-1.5** - Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds. [![arXiv](https://img.shields.io/badge/arXiv-2608.23383-b31b1b.svg)](https://arxiv.org/abs/2608.23383) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/jd-opensource/JoyAI-Echo)
@@ -327,6 +328,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 <a id="static-to-dynamic-and-multi-agent-worlds"></a>
 ### 🌀 Static to Dynamic and Multi-agent Worlds
 #### Dynamics (Out of Sight Dynamics and Self-evolution):
+- **R2M-Bench** - R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b.svg)](https://arxiv.org/abs/2608.23565) 
 - **[ECCV 2026]LivingWorld** - LivingWorld: Interactive 4D World Generation with Environmental Dynamics. [![arXiv](https://img.shields.io/badge/arXiv-2604.01641-b31b1b.svg)](https://arxiv.org/abs/2604.01641) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://paper.pnu-cvsp.com/LivingWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/cvsp-lab/LivingWorld)
 - **[ECCV'26] A2World** - Learning Transferable Dynamics Priors from Action to World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2606.29501-b31b1b.svg)](https://arxiv.org/abs/2606.29501)
 - **IOI** - IOI: Decoupling Kinematics and Physics for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.23296-b31b1b.svg)](https://arxiv.org/abs/2606.23296) 
@@ -534,6 +536,7 @@ Representative works are listed here.
 
 <a id="open-world-benchmarks"></a>
 ### 🌍 Open-world Benchmarks
+- **R2M-Bench** - R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b.svg)](https://arxiv.org/abs/2608.23565) 
 - **PlayWorld** - PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives. [![arXiv](https://img.shields.io/badge/arXiv-2608.13552-b31b1b.svg)](https://arxiv.org/abs/2608.13552) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kxding.github.io/project/PlayWorld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/kxding/PlayWorld)
 - **WBench** - WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation. [![arXiv](https://img.shields.io/badge/arXiv-2605.25874-b31b1b.svg)](https://arxiv.org/abs/2605.25874)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://meituan-longcat.github.io/WBench/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/meituan-longcat/WBench)
 - **[ICML'26] iWorldBench** - iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework. [![arXiv](https://img.shields.io/badge/arXiv-2605.03941-b31b1b.svg)](https://arxiv.org/abs/2605.03941)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://iworld-bench.com/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/EmbodiedCity/iWorld-Bench)
