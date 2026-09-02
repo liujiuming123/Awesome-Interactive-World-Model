@@ -203,6 +203,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="game-engines"></a>
 ### 🎮 Game Engines
+- **H3-World** - H3-World: Turning Language Understanding into World Control. [![arXiv](https://img.shields.io/badge/arXiv-2609.01560-b31b1b.svg)](https://arxiv.org/abs/2609.01560) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://danzer1xxxxchan.github.io/H3-World/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Danzer1xxxxChan/H3-World)
 - **Matrix-Game 3.5** - Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory. [![arXiv](https://img.shields.io/badge/arXiv-2608.29910-b31b1b.svg)](https://arxiv.org/abs/2608.29910) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v3-5.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Riemann-Dynamics/Matrix-Game-3.5)
 - **Game2World Engine** - Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training. [![arXiv](https://img.shields.io/badge/arXiv-2608.24680-b31b1b.svg)](https://arxiv.org/abs/2608.24680) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Dongping-Chen/Game2World)
 - **From Pixels to States** - From Pixels to States: Rethinking Interactive World Models as Game Engines. [![arXiv](https://img.shields.io/badge/arXiv-2607.14076-b31b1b.svg)](https://arxiv.org/abs/2607.14076)
