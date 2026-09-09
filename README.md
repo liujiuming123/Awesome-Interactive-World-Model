@@ -38,6 +38,7 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-9-8] ActionSplice** - ActionSplice: In-Flight Action Editing for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2609.08230-b31b1b.svg)](https://arxiv.org/abs/2609.08230) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pardistaghavi.github.io/actionsplice-website/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/PardisTaghavi/ActionSplice)
 - **[2026-9-1]Atlas** - Atlas: A World Model for Spatial Intelligence. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.worldlabs.ai/blog/atlas) 
 - **[2026-9-1]H3-World** - H3-World: Turning Language Understanding into World Control. [![arXiv](https://img.shields.io/badge/arXiv-2609.01560-b31b1b.svg)](https://arxiv.org/abs/2609.01560) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://danzer1xxxxchan.github.io/H3-World/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Danzer1xxxxChan/H3-World)
 - **[2026-8-30]Matrix-Game 3.5** - Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory. [![arXiv](https://img.shields.io/badge/arXiv-2608.29910-b31b1b.svg)](https://arxiv.org/abs/2608.29910) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v3-5.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Riemann-Dynamics/Matrix-Game-3.5)
@@ -489,6 +490,7 @@ Representative works are listed here.
 
 <a id="responsiveness-vs-coherence"></a>
 ### ⚖️ Conflict between Responsiveness vs Coherence
+- **ActionSplice** - ActionSplice: In-Flight Action Editing for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2609.08230-b31b1b.svg)](https://arxiv.org/abs/2609.08230) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pardistaghavi.github.io/actionsplice-website/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/PardisTaghavi/ActionSplice)
 - **[ICML'26] WorldPlay** - WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2512.14614-b31b1b.svg)](https://arxiv.org/abs/2512.14614) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/)
 - **[ICLR'26] Astra** - Astra: General Interactive World Model with Autoregressive Denoising. [![arXiv](https://img.shields.io/badge/arXiv-2512.08931-b31b1b.svg)](https://arxiv.org/abs/2512.08931) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://eternalevan.github.io/Astra-project/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/EternalEvan/Astra)
 - **ReSim** - ReSim: Reliable World Simulation for Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-2506.09981-b31b1b.svg)](https://arxiv.org/abs/2506.09981) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://opendrivelab.com/ReSim) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/OpenDriveLab/ReSim)
@@ -582,5 +584,4 @@ This repository is largely inspired by related community resources:
 - [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)
 - [Awesome-World-Model-for-Autonomous-Driving](https://github.com/LMD0311/Awesome-World-Model)
 - [Awesome-World-Model-for-Robotics](https://github.com/leofan90/Awesome-World-Models)
-
 
