@@ -38,6 +38,7 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-9-10] Vidu S2** - Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2609.11638-b31b1b.svg)](https://arxiv.org/abs/2609.11638) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.vidu.com/vidu-stream) 
 - **[2026-9-10] WorldinWorld** - World in World: Explore the World with World Models. [![arXiv](https://img.shields.io/badge/arXiv-2609.11548-b31b1b.svg)](https://arxiv.org/abs/2609.11548) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chenxi-song.github.io/worldinworld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Westlake-AGI-Lab/WorldinWorld)
 - **[2026-9-9] PWM** - Programmable World Model. [![arXiv](https://img.shields.io/badge/arXiv-2609.10540-b31b1b.svg)](https://arxiv.org/abs/2609.10540) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alaya-lab.github.io/pwm/)
 - **[2026-9-8] ActionSplice** - ActionSplice: In-Flight Action Editing for Interactive World Models. [![arXiv](https://img.shields.io/badge/arXiv-2609.08230-b31b1b.svg)](https://arxiv.org/abs/2609.08230) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pardistaghavi.github.io/actionsplice-website/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/PardisTaghavi/ActionSplice)
@@ -270,6 +271,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="industry"></a>
 ## 🚀 Industry Products
+- **[2026-9-10]Vidu S2** - Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.vidu.com/vidu-stream) 
 - **[2026-9-1]Atlas** - Atlas: A World Model for Spatial Intelligence. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.worldlabs.ai/blog/atlas) 
 - **[2026-7-3]Vidu S1** - Vidu S1: A Real-Time Interactive Video Generation Model. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.vidu.com/zh/vidu-stream)
 - **[2026-7-8][Robbyant] LingBot-World 2.0** - Infinite Worlds with Versatile Interactions. [![arXiv](https://img.shields.io/badge/arXiv-2607.07534-b31b1b.svg)](https://arxiv.org/abs/2607.07534) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-world-v2) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/robbyant/lingbot-world-v2)
