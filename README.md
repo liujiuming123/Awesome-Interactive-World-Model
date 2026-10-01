@@ -499,6 +499,7 @@ Representative works are listed here.
 
 <a id="efficient-rollout"></a>
 ### 🚀 Efficient Rollout
+- **[NeurIPS'26] WorldAttention** - WorldAttention: An Efficient Attention Architecture for Interactive Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2609.34606-b31b1b.svg)](https://arxiv.org/abs/2609.34606) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alibaba-damo-academy.github.io/WorldAttention/)
 - **FlashRender** - FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow. [![arXiv](https://img.shields.io/badge/arXiv-2609.03563-b31b1b.svg)](https://arxiv.org/abs/2609.03563) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://byeongjun-park.github.io/FlashRender/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/byeongjun-park/FlashRender)
 - **[ECCV'26] Cycle-World** - Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency. [![arXiv](https://img.shields.io/badge/arXiv-2607.11836-b31b1b.svg)](https://arxiv.org/abs/2607.11836)
 - **ABot-World-0** - ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU. [![arXiv](https://img.shields.io/badge/arXiv-2607.19191-b31b1b.svg)](https://arxiv.org/abs/2607.19191)
