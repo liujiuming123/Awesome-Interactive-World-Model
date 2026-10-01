@@ -38,6 +38,7 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
+- **[2026-9-21] WorldCrafter** - WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2609.24984-b31b1b.svg)](https://arxiv.org/abs/2609.24984) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://drexubery.github.io/WorldCrafter/) 
 - **[2026-9-13] AlayaVista** - AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video. [![arXiv](https://img.shields.io/badge/arXiv-2609.14462-b31b1b.svg)](https://arxiv.org/abs/2609.14462) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alaya-lab.github.io/AlayaVista/) 
 - **[2026-9-10] Vidu S2** - Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2609.11638-b31b1b.svg)](https://arxiv.org/abs/2609.11638) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.vidu.com/vidu-stream) 
 - **[2026-9-10] WorldinWorld** - World in World: Explore the World with World Models. [![arXiv](https://img.shields.io/badge/arXiv-2609.11548-b31b1b.svg)](https://arxiv.org/abs/2609.11548) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chenxi-song.github.io/worldinworld/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Westlake-AGI-Lab/WorldinWorld)
@@ -427,6 +428,7 @@ Most of interactive world models adopt an autoregressive paradigm, so we just li
 
 <a id="memory-construction"></a>
 ### 🗃️ Memory Construction
+- **WorldCrafter** - WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2609.24984-b31b1b.svg)](https://arxiv.org/abs/2609.24984) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://drexubery.github.io/WorldCrafter/) 
 - **Matrix-Game 3.5** - Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory. [![arXiv](https://img.shields.io/badge/arXiv-2608.29910-b31b1b.svg)](https://arxiv.org/abs/2608.29910) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v3-5.github.io/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/Riemann-Dynamics/Matrix-Game-3.5)
 - **ReWorld** - ReWorld: An Interactive World Model with Long-Horizon Memory. [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b.svg)](https://arxiv.org/abs/2608.23565) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhifeichen097.github.io/ReWorld/) 
 - **WorldDirector** - WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory. [![arXiv](https://img.shields.io/badge/arXiv-2607.02517-b31b1b.svg)](https://arxiv.org/abs/2607.02517) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worlddirector.github.io/)
