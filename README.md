@@ -38,8 +38,8 @@ This is a curated awesome list of papers, codebases, websites for interactive vi
 
 ## 🚩 News & Updates
 ⭐ **[Ongoing Update]** We are updating this repo progressively with novelly open-sourced papers, products, datasets, and benchmarks. The *most recent few* works are:
-- **[2026-9-15] WorldPlay2** - WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon. [![arXiv](https://img.shields.io/badge/arXiv-2609.17909-b31b1b.svg)](https://arxiv.org/abs/2609.17909) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zing.loopit.me/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/seedleap/zing-world-model)
 - **[2026-9-28] WorldPlay2** - WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon. [![arXiv](https://img.shields.io/badge/arXiv-2609.35560-b31b1b.svg)](https://arxiv.org/abs/2609.35560) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldplay2.github.io/) 
+- **[2026-9-15] Zing-0.5** - Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control. [![arXiv](https://img.shields.io/badge/arXiv-2609.17909-b31b1b.svg)](https://arxiv.org/abs/2609.17909) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zing.loopit.me/) [![Code](https://img.shields.io/badge/Code-Link-green)](https://github.com/seedleap/zing-world-model)
 - **[2026-9-21] WorldCrafter** - WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory. [![arXiv](https://img.shields.io/badge/arXiv-2609.24984-b31b1b.svg)](https://arxiv.org/abs/2609.24984) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://drexubery.github.io/WorldCrafter/) 
 - **[2026-9-21] HappyWorld-Bench** - HappyWorld-Bench. [![arXiv](https://img.shields.io/badge/arXiv-2609.24308-b31b1b.svg)](https://arxiv.org/abs/2609.24308) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://skyeval.com/sla/arena/happyworld) 
 - **[2026-9-13] AlayaVista** - AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video. [![arXiv](https://img.shields.io/badge/arXiv-2609.14462-b31b1b.svg)](https://arxiv.org/abs/2609.14462) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alaya-lab.github.io/AlayaVista/) 
@@ -277,6 +277,7 @@ Entries may appear in multiple sections when one paper contributes to several re
 
 <a id="industry"></a>
 ## 🚀 Industry Products
+- **[2026-9-15] Zing-0.5** - Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zing.loopit.me/) 
 - **[2026-9-10]Vidu S2** - Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.vidu.com/vidu-stream) 
 - **[2026-9-1]Atlas** - Atlas: A World Model for Spatial Intelligence. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.worldlabs.ai/blog/atlas) 
 - **[2026-7-3]Vidu S1** - Vidu S1: A Real-Time Interactive Video Generation Model. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.vidu.com/zh/vidu-stream)
